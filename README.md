@@ -1,6 +1,5 @@
-HSO Knowledge Base - From Training
-$\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 
+$\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 
 |`KB: 000064239: Knowledge Article: Modifying Password Security Settings`| 
 |-------------------------------------------------------------------------|
