@@ -5,14 +5,14 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |📖 KB Number| 🔖 Article | 🧮 Category | 🗺️ Link |
 |---------|--------|--------|-------|
 |`000012460`| *How To Open Days In The Appointment Book That Are Usually Closed* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UQcRAAW/view)
-|`000062142`| *Known Issue (RESOLVED): 24.8+ Appointment Book & Ledger Freezing, Not Able to Set Appointment Complete* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UZMmAAO/view)
-|`000061554`| *Known Issue: (RESOLVED) Appointment Book Slow on 24.5 & 24.6* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UatTAAS/view)
+|`000062142`| *Known Issue (RESOLVED): 24.8+ Appointment Book  Ledger Freezing, Not Able to Set Appointment Complete* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UZMmAAO/view)
+|`000061554`| *Known Issue: (RESOLVED) Appointment Book Slow on 24.5  24.6* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UatTAAS/view)
 |`000011130`| *Office Journal Entries Missing* | **Office Journal** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UQXwAAO/view)
 |`000026938`| *Can I Add a New Type to the Office Journal* | **Office Journal** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000hXRBAA2/view)
 |`000013584`| *How To Use eDex - Feature Information* | **Front Office Track - EDEX** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000Q25XAAS/view)
 |`000012449`| *How To Guide: How to Setup Questionnaire Forms In G6.2+* | **Questionnaire** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pTcmAAE/view)
 |`000012304`| *Installing The Interlink ePad For Use With Dentrix* | **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka0KZ0000011i9FYAQ/view)
-|`000025418`| *Document Center Preferences, Defaults, & Setup Options* | **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000xZVGAA2/view)
+|`000025418`| *Document Center Preferences, Defaults,  Setup Options* | **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000xZVGAA2/view)
 |`000005572`| *Default Document Types in the Document Center (Add, Change, and Delete Types)* | **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000hY3FAAU/view)
 |`000001422`| *Combine Documents feature (Document Center)* | **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pE8XAAU/view)
 |`000019209`| *Auto File Acquisition And Unfiled Documents*| **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka0KZ0000012BpCYAU/view)
@@ -25,7 +25,7 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 
 
 
-| $\color{Apricot}\Huge{\textbf{KB: 000062142 Known Issue (RESOLVED): 24.8+ Appointment Book & Ledger Freezing, Not Able to Set Appointment Complete}}$|
+| $\color{Apricot}\Huge{\textbf{KB: 000062142 Known Issue (RESOLVED): 24.8+ Appointment Book  Ledger Freezing, Not Able to Set Appointment Complete}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/278c9c61-6d23-4765-bc43-c3863b4c82e3)|
 |![image](https://github.com/user-attachments/assets/d3cfd6dd-d65a-4465-b751-24a3dad54fd5)|
@@ -53,7 +53,7 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 
 
 
-| $\color{Apricot}\Huge{\textbf{KB: 000061554 Known Issue: (RESOLVED) Appointment Book Slow on 24.5 & 24.6}}$|
+| $\color{Apricot}\Huge{\textbf{KB: 000061554 Known Issue: (RESOLVED) Appointment Book Slow on 24.5  24.6}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/fdf86abc-7627-4b4d-85f0-24896ce26e84)|
 |![image](https://github.com/user-attachments/assets/fa5c992f-da36-4f87-aa2f-0ffd39c29f2e)|
