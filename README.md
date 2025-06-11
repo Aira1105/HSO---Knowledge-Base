@@ -37,10 +37,10 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 ###### KB000012460
 | $\color{Apricot}\Huge{\textbf{KB: 000012460 How To Open Days In The Appointment Book That Are Usually Closed}}$|
 |-------------------------------------------|
-|
-
-
-
+|![image](https://github.com/user-attachments/assets/4da460e4-e4f7-4154-a6f1-d72f4e3a95b5)|
+|![image](https://github.com/user-attachments/assets/fd04f985-c825-49c0-aa23-97b586b37d82)|
+|![image](https://github.com/user-attachments/assets/03ea630e-eba6-4e4a-b931-a31f52e2e580)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
 
 ###### KB000019336
 | $\color{Apricot}\Huge{\textbf{KB: 000019336 Unable To Open A Day In The Appointment Book}}$|
