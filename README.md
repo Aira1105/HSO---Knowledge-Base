@@ -42,7 +42,7 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 
 
 
-| $\color{Apricot}\Huge{\textbf{KB: 000062142 Known Issue (RESOLVED): 24.8+ Appointment Book & Ledger Freezing, Not Able to Set Appointment Complete}}$|
+| $\color{Apricot}\Huge{\textbf{KB: 000062142 Known Issue (RESOLVED): 24.8+ Appointment Book  Ledger Freezing, Not Able to Set Appointment Complete}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/24d362ac-6b9a-47ab-9e83-2493a3ae3ff8)|
 |![image](https://github.com/user-attachments/assets/947ddb92-b50a-433c-83f1-1274c22b3627)|
