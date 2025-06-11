@@ -38,6 +38,7 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/ad621082-17c4-4bfa-a756-8ae969efc5c2)|
 |![image](https://github.com/user-attachments/assets/63155c69-1b24-40f1-8198-3eae68fa81b2)|
+|*We have some patients who have prep work done for a procedure and need to come back in two weeks to complete the final part.  Can Dentrix remind us of who they are and when they are due?*|
 |*[`BACK TO TOP`](#HSO-TECH)*|
 
 
