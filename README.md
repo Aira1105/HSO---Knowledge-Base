@@ -4,6 +4,7 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 $\color{Cyan}\Huge{\textbf{Contents}}$
 |📖 KB Number| 🔖 Article | 🧮 Category | 🗺️ Link  |
 |-------------|------------|--------------|---------|
+|`000015945`| *Treatment Planner Does Not Predict Benefit Reset* | **Patient Chart** | [`🔗`](#KB000015945)
 |`000023353`| *How To Delete A Claim In History* | **Patient Chart** | [`🔗`](#KB000023353)
 |`000017659`| *How To Properly Adjust A Procedure In History In Dentrix* | **Patient Chart** | [`🔗`](#KB00017659)
 |`000016187`| *Whats the Difference Between Existing and Existing other?* | **Patient Chart** | [`🔗`](#KB000016187)
@@ -38,10 +39,24 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000061883`| *Known Issue (RESOLVED): Patient Chart More Info Button in Chart Causes Smart Image Error* | **Patient Info**   | [`🔗`](#KB000061883)
 |`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | **Patient Info**   | [`🔗`](#KB000025513)
 
-###### KB000023353
-| $\color{Apricot}\Huge{\textbf{KB:00017659 How To Properly Adjust A Procedure In History In Dentrix) In Dentrix}}$|
-|-------------------------------------------|
 
+###### #KB000015945
+| $\color{Apricot}\Huge{\textbf{KB:000015945 How To Properly Adjust A Procedure In History In Dentrix}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/7e2d820a-391f-4fa5-aab9-db5178d5b552)|
+|![image](https://github.com/user-attachments/assets/55c6f126-cebf-4039-8000-827ce3f834d9)|
+|![image](https://github.com/user-attachments/assets/75761e0a-3d83-4118-bee6-65c6be72ab32)|
+|![image](https://github.com/user-attachments/assets/f383c50e-6ae8-4d61-8f5e-8af0153e973f)|
+|![image](https://github.com/user-attachments/assets/cca5834e-7569-465d-a3ae-bf5132ae02a9)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
+
+
+###### KB000023353
+| $\color{Apricot}\Huge{\textbf{KB:000023353 How To Properly Adjust A Procedure In History In Dentrix}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/bb552760-a4f8-4e25-ad75-5e7670bd1e2b)|
+|![image](https://github.com/user-attachments/assets/ec831630-6e0d-40b9-bb84-77618facdbbc)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
 
 
 ###### KB00017659
@@ -54,11 +69,6 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |![image](https://github.com/user-attachments/assets/aeb5a3da-5ac2-46e4-8934-4add4d29efc7)|
 |![image](https://github.com/user-attachments/assets/de0ff0e8-2397-48c4-8c50-9d2543b5f017)|
 |*[`BACK TO TOP`](#HSO-TECH)*|
-
-
-
-
-
 
 
 ###### KB000016187
