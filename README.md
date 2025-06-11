@@ -1,10 +1,12 @@
 
 $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 
-|$\color{Purple4}\Huge{\textbf{Content}}$|
+| $\color{Cyan}\Huge{\textbf{Contents}}$ |
 |----------------------------------------|
+
 |KB Number| Article|
 |---------|--------|
+|
 
 | $\color{Apricot}\Huge{\textbf{KB: 000064239: Knowledge Article: Modifying Password Security Settings}}$ | 
 |-------------------------------------------------------------------------|
