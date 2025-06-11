@@ -2,9 +2,9 @@
 $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 
 $\color{Cyan}\Huge{\textbf{Contents}}$
-|KB Number| Article | Category |
-|---------|--------|--------|
-|`000014404`| *Adding a New Provider in Dentrix* | **Patient Information** |
+|KB Number| Article | Category | Link |
+|---------|--------|--------|-------|
+|`000014404`| *Adding a New Provider in Dentrix* | **Patient Information** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UaBVAA0/view)|
 |`000001164`| *What Does Inactivating A Provider / Staff Member Do?*| **Patient Information**   |
 |`000064239`| *Modifying Password Security Settings* | **Patient Information**  |
 |`000019688`| *Definition Limits Explained* | **Patient Information**   |
