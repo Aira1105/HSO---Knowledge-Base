@@ -4,6 +4,7 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 $\color{Cyan}\Huge{\textbf{Contents}}$
 |KB Number| Article | Category | Link |
 |---------|--------|--------|-------|
+|`000012449`| *How To Guide: How to Setup Questionnaire Forms In G6.2+* | **Questionnaire** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pTcmAAE/view)
 |`000012304`| *Installing The Interlink ePad For Use With Dentrix* | **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka0KZ0000011i9FYAQ/view)
 |`000025418`| *Document Center Preferences, Defaults, & Setup Options* | **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000xZVGAA2/view)
 |`000005572`| *Default Document Types in the Document Center (Add, Change, and Delete Types)* | **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000hY3FAAU/view)
@@ -15,6 +16,20 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000019688`| *Definition Limits Explained* | **Patient Info**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pE7HAAU/view)
 |`000061883`| *Known Issue (RESOLVED): Patient Chart More Info Button in Chart Causes Smart Image Error* | **Patient Info**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001US8YAAW/view)
 |`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | **Patient Info**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka0KZ0000010wslYAA/view)
+
+| $\color{Apricot}\Huge{\textbf{KB: 000012449: How To Guide: How to Setup Questionnaire Forms In G6.2}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/ce529a22-bd63-4823-b569-83f53c12f283)|
+|![image](https://github.com/user-attachments/assets/bd94518e-1970-463a-b48c-f69fd72417d8)|
+|![image](https://github.com/user-attachments/assets/3213f67a-a72c-4f63-8a86-d9d51a61a955)|
+|![image](https://github.com/user-attachments/assets/9d448aa0-e055-4129-9efd-96fd9c7f5dfc)|
+|![image](https://github.com/user-attachments/assets/99763874-45f5-441b-b6e0-c27204df6544)|
+|![image](https://github.com/user-attachments/assets/8cb63d43-cfbe-47e3-84bd-3a323d28c7cd)|
+
+
+
+
+
 
 | $\color{Apricot}\Huge{\textbf{KB: 000012304: Installing The Interlink ePad For Use With Dentrix}}$|
 |-------------------------------------------|
