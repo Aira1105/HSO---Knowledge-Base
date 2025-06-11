@@ -4,6 +4,8 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 $\color{Cyan}\Huge{\textbf{Contents}}$
 |📖 KB Number| 🔖 Article | 🧮 Category | 🗺️ Link  |
 |-------------|------------|--------------|---------|
+|`
+|`000019336`| *Unable To Open A Day In The Appointment Book* | **Appointment Book** | [`🔗`](#KB000019336)
 |`000012091`| *Scheduled Production in Appointment Book Is Negative or Incorrect* | **Appointment Book** | [`🔗`](#KB000012091)|
 |`000018829`| *Continuing Care Cards Stop Merging* | **Appointment Book** | [`🔗`](#KB000018829)|
 |`000016508`| *Hide Provider Tracking Columns* | **Appointment Book** | [`🔗`](#KB000016508)|
@@ -27,6 +29,20 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000061883`| *Known Issue (RESOLVED): Patient Chart More Info Button in Chart Causes Smart Image Error* | **Patient Info**   | [`🔗`](#KB000061883)
 |`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | **Patient Info**   | [`🔗`](#KB000025513)
 
+
+
+
+
+
+
+
+
+###### KB000019336
+| $\color{Apricot}\Huge{\textbf{KB: 000019336 Unable To Open A Day In The Appointment Book}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/aa341c1d-fefb-4406-ac3d-b84e6ec9de54)|
+|![image](https://github.com/user-attachments/assets/f254a56a-7e9e-493f-858b-a9d87534c00a)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
 
 ###### KB000012091     
 | $\color{Apricot}\Huge{\textbf{KB: 000012091 Scheduled Production in Appointment Book Is Negative or Incorrect}}$|
