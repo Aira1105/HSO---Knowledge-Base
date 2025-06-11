@@ -4,6 +4,7 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 $\color{Cyan}\Huge{\textbf{Contents}}$
 |📖 KB Number| 🔖 Article | 🧮 Category | 🗺️ Link  |
 |-------------|------------|--------------|---------|
+|`000018310`| *List Of Patients Without Continuing Care* | **Continuing Care** | [`🔗`](#KB000018310)
 |`000023649`| *How to Generate Recall/Continuing Care Cards (With or Without Appts) In Dentrix* | **Continuing Care** | [`🔗`](#KB000023649)
 |`000014120`| *Continuing Care - Feature Information* | **Continuing Care** | [`🔗`](#KB000014120)
 |`000016737`| *Cannot Read Appointment File* | **Appointment Book** | [`🔗`](#KB000016737)
@@ -32,6 +33,13 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | **Patient Info**   | [`🔗`](#KB000025513)
 
 
+###### KB000018310
+| $\color{Apricot}\Huge{\textbf{KB:000018310 List Of Patients Without Continuing Care*) In Dentrix}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/ad621082-17c4-4bfa-a756-8ae969efc5c2)|
+|![image](https://github.com/user-attachments/assets/63155c69-1b24-40f1-8198-3eae68fa81b2)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
+
 
 ###### KB000023649
 | $\color{Apricot}\Huge{\textbf{KB:000023649 How to Generate Recall/Continuing Care Cards (With or Without Appts) In Dentrix}}$|
@@ -39,14 +47,8 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |![image](https://github.com/user-attachments/assets/3aa5fe8f-4843-409d-9b1e-5596d7ed37f8)|
 |![image](https://github.com/user-attachments/assets/576bb904-dd07-465e-a44c-0fb1e2948e85)|
 |![image](https://github.com/user-attachments/assets/5ebdfe6c-90c7-4077-b9b2-dc045f05da7a)|
-|![image](https://github.com/user-attachments/assets/9889de17-bb9c-442d-a1a5-247fc0189a8a)|
 |![image](https://github.com/user-attachments/assets/54791b49-93e3-45b3-9847-8dee22dd8988)|
-
-
-
-
-
-
+|*[`BACK TO TOP`](#HSO-TECH)*|
 
 ###### KB000014120
 | $\color{Apricot}\Huge{\textbf{KB: 000014120 Continuing Care - Feature Information}}$|
