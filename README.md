@@ -40,7 +40,7 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | **Patient Info**   | [`🔗`](#KB000025513)
 
 
-###### #KB000015945
+###### KB000015945
 | $\color{Apricot}\Huge{\textbf{KB:000015945 How To Properly Adjust A Procedure In History In Dentrix}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/7e2d820a-391f-4fa5-aab9-db5178d5b552)|
