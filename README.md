@@ -39,23 +39,19 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |![image](https://github.com/user-attachments/assets/9673a956-8416-4943-9a35-c6b1930d8c25)|
 |*[`BACK TO TOP`](#HSO-TECH)*|
 
-
-
-
-
-
-
 ###### KB000018829
 | $\color{Apricot}\Huge{\textbf{KB: 000018829 Continuing Care Cards Stop Merging}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/b5c719bb-a4db-4852-839d-f4a1ef1e3325)|
 |![image](https://github.com/user-attachments/assets/3bf35f90-2fed-47d2-91fa-6af1f4fcc6fc)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
 
 ###### KB000005594
 | $\color{Apricot}\Huge{\textbf{KB: 000005594 Operatory Is Already Scheduled For Requested Time}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/9b93e25e-9cc4-4c1d-b308-cca24d7934ce)|
 |![image](https://github.com/user-attachments/assets/ce0c13df-8325-4aa0-8cf7-3f64d87b34d0)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
 
 ###### KB000005594
 | $\color{Apricot}\Huge{\textbf{KB: 000005594 Operatory Is Already Scheduled For Requested Time}}$|
@@ -63,20 +59,14 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |![image](https://github.com/user-attachments/assets/3243fa7b-eb0d-4762-8ca1-8a1739edb663)|
 |![image](https://github.com/user-attachments/assets/5e4f9803-1e21-474e-841d-c0f2263b5072)|
 |![image](https://github.com/user-attachments/assets/04fe4840-729a-42f4-8e3e-824f71237a8f)|
-
-
-
-
-
-
-
-
+|*[`BACK TO TOP`](#HSO-TECH)*|
 
 | $\color{Apricot}\Huge{\textbf{KB: 000062142 Known Issue (RESOLVED): 24.8+ Appointment Book  Ledger Freezing, Not Able to Set Appointment Complete}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/278c9c61-6d23-4765-bc43-c3863b4c82e3)|
 |![image](https://github.com/user-attachments/assets/d3cfd6dd-d65a-4465-b751-24a3dad54fd5)|
 |![image](https://github.com/user-attachments/assets/7629dd23-c5c7-47c1-8a3f-d1e6c14aed77)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
 
 
 
