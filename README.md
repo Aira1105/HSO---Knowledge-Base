@@ -6,11 +6,22 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 
 |KB Number| Article|
 |---------|--------|
+|
+|`000014404`| *Adding a New Provider in Dentrix* |
 |`000001164`| *What Does Inactivating A Provider / Staff Member Do?*|
 |`000064239`| *Modifying Password Security Settings* |
 |`000019688`| *Definition Limits Explained* |
 |`000061883`| *Known Issue (RESOLVED): Patient Chart More Info Button in Chart Causes Smart Image Error* |
 |`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* |
+
+
+| $\color{Apricot}\Huge{\textbf{KB: 000014404: Knowledge Article: WAdding a New Provider in Dentrix}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/3e39d996-dfbb-455e-847f-c1c20e18aeef)|
+|![image](https://github.com/user-attachments/assets/4645c0ef-02bf-456c-9d90-b52b76ee412b)|
+|![image](https://github.com/user-attachments/assets/f026c90a-32a8-49d1-893c-8d45d33f53c8)|
+
+
 
 
 | $\color{Apricot}\Huge{\textbf{KB: 000001164: Knowledge Article: What Does Inactivating A Provider / Staff Member Do?}}$|
