@@ -4,12 +4,23 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 $\color{Cyan}\Huge{\textbf{Contents}}$
 |KB Number| Article | Category | Link |
 |---------|--------|--------|-------|
+|`000019209`| *Auto File Acquisition And Unfiled Documents*| **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka0KZ0000012BpCYAU/view)
 |`000014404`| *Adding a New Provider in Dentrix* | **Patient Info** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UaBVAA0/view)|
-|`000001164`| *What Does Inactivating A Provider / Staff Member Do?*| **Patient Infor**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pGwsAAE/view)
+|`000001164`| *What Does Inactivating A Provider / Staff Member Do?*| **Patient Info**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pGwsAAE/view)
 |`000064239`| *Modifying Password Security Settings* | **Patient Info**  | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka0KZ0000010xNPYAY/view)
 |`000019688`| *Definition Limits Explained* | **Patient Infor**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pE7HAAU/view)
-|`000061883`| *Known Issue (RESOLVED): Patient Chart More Info Button in Chart Causes Smart Image Error* | **Patient Info**   |
-|`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | **Patient Info**   |
+|`000061883`| *Known Issue (RESOLVED): Patient Chart More Info Button in Chart Causes Smart Image Error* | **Patient Info**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001US8YAAW/view)
+|`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | **Patient Info**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka0KZ0000010wslYAA/view)
+
+| $\color{Apricot}\Huge{\textbf{KB: 000019209: Document Center: Auto File Acquisition And Unfiled Documents}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/f645e46d-b6f6-47a6-9a88-0e32d33d0bb2)|
+|![image](https://github.com/user-attachments/assets/01af8021-4d38-492e-8e5d-3b41510ef371)|
+|![image](https://github.com/user-attachments/assets/982bc4c8-0dd3-4837-b3d0-4c5cc82799c6)|
+|![image](https://github.com/user-attachments/assets/73d54cf6-f526-4f9e-9d8c-a6e16b5170c0)|
+
+
+
 
 
 | $\color{Apricot}\Huge{\textbf{KB: 000014404: Knowledge Article: Adding a New Provider in Dentrix}}$|
