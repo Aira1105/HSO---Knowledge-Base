@@ -4,7 +4,7 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 $\color{Cyan}\Huge{\textbf{Contents}}$
 |📖 KB Number| 🔖 Article | 🧮 Category | 🗺️ Link  |
 |-------------|------------|--------------|---------|
-|`000012091`| *Scheduled Production in Appointment Book Is Negative or Incorrect* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pborAAA/view)
+|`000012091`| *Scheduled Production in Appointment Book Is Negative or Incorrect* | **Appointment Book** | [`🔗`](#KB000012091)
 |`000018829`| *Continuing Care Cards Stop Merging* | **Appointment Book** | [`🔗`](#KB000018829)
 |`000016508`| *Hide Provider Tracking Columns* | **Appointment Book** | [`🔗`](#KB000016508)
 |`000005594`| *Operatory Is Already Scheduled For Requested Time* | **Appointment Book** | [`🔗`](#KB000005594)
@@ -30,7 +30,7 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 
 
 ###### KB000012091
-| $\color{Apricot}\Huge{\textbf{KB: 000012091 Continuing Care Cards Stop Merging}}$|
+| $\color{Apricot}\Huge{\textbf{KB: 000012091 Scheduled Production in Appointment Book Is Negative or Incorrect}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/1fffa9ea-3293-469c-a9fc-0d013bf5603d)|
 |![image](https://github.com/user-attachments/assets/bd8a81b7-0346-453d-a963-4ba3dc11db4a)|
