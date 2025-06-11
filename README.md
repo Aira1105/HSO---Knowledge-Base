@@ -4,8 +4,8 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 $\color{Cyan}\Huge{\textbf{Contents}}$
 |KB Number| Article | Category | Link |
 |---------|--------|--------|-------|
-|`000005572`| *Default Document Types in the Document Center (Add, Change, and Delete Types)* | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000hY3FAAU/view)
-|`000001422`| *Combine Documents feature (Document Center)* | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pE8XAAU/view)
+|`000005572`| *Default Document Types in the Document Center (Add, Change, and Delete Types)* | **Document Center**| [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000hY3FAAU/view)
+|`000001422`| *Combine Documents feature (Document Center)* | **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pE8XAAU/view)
 |`000019209`| *Auto File Acquisition And Unfiled Documents*| **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka0KZ0000012BpCYAU/view)
 |`000014404`| *Adding a New Provider in Dentrix* | **Patient Info** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UaBVAA0/view)|
 |`000001164`| *What Does Inactivating A Provider / Staff Member Do?*| **Patient Info**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pGwsAAE/view)
