@@ -3,7 +3,7 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 
 
 
-| $\color{Purple}\Huge{\textbf{KB: 000064239: Knowledge Article: Modifying Password Security Settings}}$ | 
+| $\color{Apricot}\Huge{\textbf{KB: 000064239: Knowledge Article: Modifying Password Security Settings}}$ | 
 |-------------------------------------------------------------------------|
 |![image](https://github.com/user-attachments/assets/571233e4-5977-4a5c-9bd7-0cddca47f43b)|
 |![image](https://github.com/user-attachments/assets/16cd867b-3b4d-4f28-9f18-342cdb6331c0)|
