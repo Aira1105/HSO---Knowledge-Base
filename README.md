@@ -4,6 +4,10 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 $\color{Cyan}\Huge{\textbf{Contents}}$
 |📖 KB Number| 🔖 Article | 🧮 Category | 🗺️ Link |
 |-------------|------------|--------------|---------|
+|`000012091`| *Scheduled Production in Appointment Book Is Negative or Incorrect* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pborAAA/view)
+|`000018829`| *Continuing Care Cards Stop Merging* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pC2RAAU/view)
+|`000016508`| *Hide Provider Tracking Columns* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pGR5AAM/view)
+|`000005594`| *Operatory Is Already Scheduled For Requested Time* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pBoLAAU/view)
 |`000012460`| *How To Open Days In The Appointment Book That Are Usually Closed* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UQcRAAW/view)
 |`000062142`| *Known Issue (RESOLVED): 24.8+ Appointment Book  Ledger Freezing, Not Able to Set Appointment Complete* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UZMmAAO/view)
 |`000061554`| *Known Issue: (RESOLVED) Appointment Book Slow on 24.5  24.6* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UatTAAS/view)
@@ -22,6 +26,39 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000019688`| *Definition Limits Explained* | **Patient Info**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pE7HAAU/view)
 |`000061883`| *Known Issue (RESOLVED): Patient Chart More Info Button in Chart Causes Smart Image Error* | **Patient Info**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001US8YAAW/view)
 |`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | **Patient Info**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka0KZ0000010wslYAA/view)
+
+
+
+
+
+| $\color{Apricot}\Huge{\textbf{KB: 000018829 Continuing Care Cards Stop Merging}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/b5c719bb-a4db-4852-839d-f4a1ef1e3325)|
+|![image](https://github.com/user-attachments/assets/3bf35f90-2fed-47d2-91fa-6af1f4fcc6fc)|
+
+
+
+
+
+| $\color{Apricot}\Huge{\textbf{KB: 000005594 Operatory Is Already Scheduled For Requested Time}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/9b93e25e-9cc4-4c1d-b308-cca24d7934ce)|
+|![image](https://github.com/user-attachments/assets/ce0c13df-8325-4aa0-8cf7-3f64d87b34d0)|
+
+
+
+
+| $\color{Apricot}\Huge{\textbf{KB: 000005594 Operatory Is Already Scheduled For Requested Time}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/3243fa7b-eb0d-4762-8ca1-8a1739edb663)|
+|![image](https://github.com/user-attachments/assets/5e4f9803-1e21-474e-841d-c0f2263b5072)|
+|![image](https://github.com/user-attachments/assets/04fe4840-729a-42f4-8e3e-824f71237a8f)|
+
+
+
+
+
+
 
 
 
