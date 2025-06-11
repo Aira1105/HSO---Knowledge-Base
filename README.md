@@ -4,7 +4,6 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 $\color{Cyan}\Huge{\textbf{Contents}}$
 |KB Number| Article | Category | Link |
 |---------|--------|--------|-------|
-
 |`000026938`| *Can I Add a New Type to the Office Journal* | **Office Journal** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000hXRBAA2/view)
 |`000013584`| *How To Use eDex - Feature Information* | **Front Office Track - EDEX** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000Q25XAAS/view)
 |`000012449`| *How To Guide: How to Setup Questionnaire Forms In G6.2+* | **Questionnaire** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pTcmAAE/view)
