@@ -2,14 +2,14 @@
 $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 
 $\color{Cyan}\Huge{\textbf{Contents}}$
-|📖 KB Number| 🔖 Article | 🧮 Category | 🗺️ Link to Salesforce |
+|📖 KB Number| 🔖 Article | 🧮 Category | 🗺️ Link  |
 |-------------|------------|--------------|---------|
 |`000012091`| *Scheduled Production in Appointment Book Is Negative or Incorrect* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pborAAA/view)
 |`000018829`| *Continuing Care Cards Stop Merging* | **Appointment Book** | [`🔗`](#KB000018829)
-|`000016508`| *Hide Provider Tracking Columns* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pGR5AAM/view)
-|`000005594`| *Operatory Is Already Scheduled For Requested Time* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pBoLAAU/view)
-|`000012460`| *How To Open Days In The Appointment Book That Are Usually Closed* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UQcRAAW/view)
-|`000062142`| *Known Issue (RESOLVED): 24.8+ Appointment Book  Ledger Freezing, Not Able to Set Appointment Complete* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UZMmAAO/view)
+|`000016508`| *Hide Provider Tracking Columns* | **Appointment Book** | [`🔗`](#KB000016508)
+|`000005594`| *Operatory Is Already Scheduled For Requested Time* | **Appointment Book** | [`🔗`](KB000005594)
+|`000012460`| *How To Open Days In The Appointment Book That Are Usually Closed* | **Appointment Book** | [`🔗`](#KB000012460)
+|`000062142`| *Known Issue (RESOLVED): 24.8+ Appointment Book  Ledger Freezing, Not Able to Set Appointment Complete* | **Appointment Book** | [`🔗`](#KB000062142)
 |`000061554`| *Known Issue: (RESOLVED) Appointment Book Slow on 24.5  24.6* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UatTAAS/view)
 |`000011130`| *Office Journal Entries Missing* | **Office Journal** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UQXwAAO/view)
 |`000026938`| *Can I Add a New Type to the Office Journal* | **Office Journal** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000hXRBAA2/view)
@@ -36,6 +36,7 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |![image](https://github.com/user-attachments/assets/b5c719bb-a4db-4852-839d-f4a1ef1e3325)|
 |![image](https://github.com/user-attachments/assets/3bf35f90-2fed-47d2-91fa-6af1f4fcc6fc)|
 
+###### KB000005594
 | $\color{Apricot}\Huge{\textbf{KB: 000005594 Operatory Is Already Scheduled For Requested Time}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/9b93e25e-9cc4-4c1d-b308-cca24d7934ce)|
