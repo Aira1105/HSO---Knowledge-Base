@@ -4,6 +4,7 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 $\color{Cyan}\Huge{\textbf{Contents}}$
 |📖 KB Number| 🔖 Article | 🧮 Category | 🗺️ Link  |
 |-------------|------------|--------------|---------|
+|`000023353`| *How To Delete A Claim In History* | **Patient Chart** | [`🔗`](#KB000023353)
 |`000017659`| *How To Properly Adjust A Procedure In History In Dentrix* | **Patient Chart** | [`🔗`](#KB00017659)
 |`000016187`| *Whats the Difference Between Existing and Existing other?* | **Patient Chart** | [`🔗`](#KB000016187)
 |`000011697`| *Proper Permissions* | **Continuing Care** | [`🔗`](#KB000011697)
@@ -37,11 +38,14 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000061883`| *Known Issue (RESOLVED): Patient Chart More Info Button in Chart Causes Smart Image Error* | **Patient Info**   | [`🔗`](#KB000061883)
 |`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | **Patient Info**   | [`🔗`](#KB000025513)
 
+###### KB000023353
+| $\color{Apricot}\Huge{\textbf{KB:00017659 How To Properly Adjust A Procedure In History In Dentrix) In Dentrix}}$|
+|-------------------------------------------|
 
 
 
 ###### KB00017659
-| $\color{Apricot}\Huge{\textbf{KB:00017659 How To Properly Adjust A Procedure In History In Dentrix) In Dentrix}}$|
+| $\color{Apricot}\Huge{\textbf{KB:00017659 How To Delete A Claim In History}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/1587c519-d11b-4faa-8d81-f4f2f208edec)|
 |![image](https://github.com/user-attachments/assets/c3c397b8-3dbe-4f24-9baa-ef3acc85bd7a)|
@@ -58,14 +62,14 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 
 
 ###### KB000016187
-| $\color{Apricot}\Huge{\textbf{KB:000016187 Whats the Difference Between Existing and Existing other?) In Dentrix}}$|
+| $\color{Apricot}\Huge{\textbf{KB:000016187 Whats the Difference Between Existing and Existing other?}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/6804650e-f60d-4aeb-818a-458c298cbcf6)|
 |![image](https://github.com/user-attachments/assets/466babaa-44ab-40cf-9050-376e1e99c7ce)|
 |*[`BACK TO TOP`](#HSO-TECH)*|
 
 ###### KB000011697
-| $\color{Apricot}\Huge{\textbf{KB:00003409 How To Create a Custom Quick Letter) In Dentrix}}$|
+| $\color{Apricot}\Huge{\textbf{KB:00003409 How To Create a Custom Quick Letter)}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/87ad2c17-eded-441a-a82d-baf1ba93b086)|
 |![image](https://github.com/user-attachments/assets/ed3656ff-8adb-4302-876e-4bcd625e897b)|
@@ -74,14 +78,14 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |*[`BACK TO TOP`](#HSO-TECH)*|
 
 ###### KB000003409
-| $\color{Apricot}\Huge{\textbf{KB:00003409 How To Create a Custom Quick Letter*) In Dentrix}}$|
+| $\color{Apricot}\Huge{\textbf{KB:00003409 How To Create a Custom Quick Letter}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/99a828e7-d28f-4183-b6a9-f9a179d34ffd)|
 |![image](https://github.com/user-attachments/assets/3896a72a-3523-4242-afe8-d546f02d4f10)|
 |*[`BACK TO TOP`](#HSO-TECH)*|
 
 ###### KB000005873
-| $\color{Apricot}\Huge{\textbf{KB:000005873 Automatically Remind To Make Follow-up Appointment*) In Dentrix}}$|
+| $\color{Apricot}\Huge{\textbf{KB:000005873 Automatically Remind To Make Follow-up Appointment}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/b9f8e3ed-4158-4b9d-9b00-35af6a5f39aa)|
 |![image](https://github.com/user-attachments/assets/5e563dca-6195-4bff-a6d6-d316d8e13593)|
@@ -90,7 +94,7 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 
 
 ###### KB000018310
-| $\color{Apricot}\Huge{\textbf{KB:000018310 List Of Patients Without Continuing Care*) In Dentrix}}$|
+| $\color{Apricot}\Huge{\textbf{KB:000018310 List Of Patients Without Continuing Care}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/ad621082-17c4-4bfa-a756-8ae969efc5c2)|
 |![image](https://github.com/user-attachments/assets/63155c69-1b24-40f1-8198-3eae68fa81b2)|
@@ -99,7 +103,7 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 
 
 ###### KB000023649
-| $\color{Apricot}\Huge{\textbf{KB:000023649 How to Generate Recall/Continuing Care Cards (With or Without Appts) In Dentrix}}$|
+| $\color{Apricot}\Huge{\textbf{KB:000023649 How to Generate Recall/Continuing Care Cards (With or Without Appts)}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/3aa5fe8f-4843-409d-9b1e-5596d7ed37f8)|
 |![image](https://github.com/user-attachments/assets/576bb904-dd07-465e-a44c-0fb1e2948e85)|
