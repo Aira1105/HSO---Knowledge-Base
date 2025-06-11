@@ -12,7 +12,7 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | **Patient Information**   |
 
 
-| $\color{Apricot}\Huge{\textbf{KB: 000014404: Knowledge Article: WAdding a New Provider in Dentrix}}$|
+| $\color{Apricot}\Huge{\textbf{KB: 000014404: Knowledge Article: Adding a New Provider in Dentrix}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/3e39d996-dfbb-455e-847f-c1c20e18aeef)|
 |![image](https://github.com/user-attachments/assets/4645c0ef-02bf-456c-9d90-b52b76ee412b)|
