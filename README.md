@@ -1,8 +1,7 @@
 
 $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 
-| $\color{Cyan}\Huge{\textbf{Contents}}$ |
-|----------------------------------------|
+$\color{Cyan}\Huge{\textbf{Contents}}$
 |KB Number| Article | Category |
 |---------|--------|--------|
 |`000014404`| *Adding a New Provider in Dentrix* | Patient Information |
