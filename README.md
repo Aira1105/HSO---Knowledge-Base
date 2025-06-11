@@ -4,6 +4,11 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 $\color{Cyan}\Huge{\textbf{Contents}}$
 |📖 KB Number| 🔖 Article | 🧮 Category | 🗺️ Link  |
 |-------------|------------|--------------|---------|
+|`000017659`| *How To Properly Adjust A Procedure In History In Dentrix* | **Patient Chart** | [`🔗`](#KB00017659)
+|`000016187`| *Whats the Difference Between Existing and Existing other?* | **Patient Chart** | [`🔗`](#KB000016187)
+|`000011697`| *Proper Permissions* | **Continuing Care** | [`🔗`](#KB000011697)
+|`000003409`| *How To Create a Custom Quick Letter* | **Continuing Care** | [`🔗`](#KB000003409)
+|`000005873`| *Automatically Remind To Make Follow-up Appointment* | **Continuing Care** | [`🔗`](#KB000005873)
 |`000018310`| *List Of Patients Without Continuing Care* | **Continuing Care** | [`🔗`](#KB000018310)
 |`000023649`| *How to Generate Recall/Continuing Care Cards (With or Without Appts) In Dentrix* | **Continuing Care** | [`🔗`](#KB000023649)
 |`000014120`| *Continuing Care - Feature Information* | **Continuing Care** | [`🔗`](#KB000014120)
@@ -31,6 +36,57 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000019688`| *Definition Limits Explained* | **Patient Info**   | [`🔗`](#KB000019688)
 |`000061883`| *Known Issue (RESOLVED): Patient Chart More Info Button in Chart Causes Smart Image Error* | **Patient Info**   | [`🔗`](#KB000061883)
 |`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | **Patient Info**   | [`🔗`](#KB000025513)
+
+
+
+
+###### KB00017659
+| $\color{Apricot}\Huge{\textbf{KB:00017659 How To Properly Adjust A Procedure In History In Dentrix) In Dentrix}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/1587c519-d11b-4faa-8d81-f4f2f208edec)|
+|![image](https://github.com/user-attachments/assets/c3c397b8-3dbe-4f24-9baa-ef3acc85bd7a)|
+|![image](https://github.com/user-attachments/assets/85f122fe-36ea-435c-8eed-3088a94fb5f1)|
+|![image](https://github.com/user-attachments/assets/e27cd8b2-db13-4fa9-8b4f-41a0659b9be7)|
+|![image](https://github.com/user-attachments/assets/aeb5a3da-5ac2-46e4-8934-4add4d29efc7)|
+|![image](https://github.com/user-attachments/assets/de0ff0e8-2397-48c4-8c50-9d2543b5f017)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
+
+
+
+
+
+
+
+###### KB000016187
+| $\color{Apricot}\Huge{\textbf{KB:000016187 Whats the Difference Between Existing and Existing other?) In Dentrix}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/6804650e-f60d-4aeb-818a-458c298cbcf6)|
+|![image](https://github.com/user-attachments/assets/466babaa-44ab-40cf-9050-376e1e99c7ce)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
+
+###### KB000011697
+| $\color{Apricot}\Huge{\textbf{KB:00003409 How To Create a Custom Quick Letter) In Dentrix}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/87ad2c17-eded-441a-a82d-baf1ba93b086)|
+|![image](https://github.com/user-attachments/assets/ed3656ff-8adb-4302-876e-4bcd625e897b)|
+|![image](https://github.com/user-attachments/assets/3527c1e1-8128-4e64-9f7c-d0c6c4607498)|
+|![image](https://github.com/user-attachments/assets/89482af2-6464-4389-b705-eb136bfac14f)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
+
+###### KB000003409
+| $\color{Apricot}\Huge{\textbf{KB:00003409 How To Create a Custom Quick Letter*) In Dentrix}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/99a828e7-d28f-4183-b6a9-f9a179d34ffd)|
+|![image](https://github.com/user-attachments/assets/3896a72a-3523-4242-afe8-d546f02d4f10)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
+
+###### KB000005873
+| $\color{Apricot}\Huge{\textbf{KB:000005873 Automatically Remind To Make Follow-up Appointment*) In Dentrix}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/b9f8e3ed-4158-4b9d-9b00-35af6a5f39aa)|
+|![image](https://github.com/user-attachments/assets/5e563dca-6195-4bff-a6d6-d316d8e13593)|
+| *I'd like to find a list of patients without continuing care who maybe walked in off-the-street for emergency work in the last year and invite them to come back and get a cleaning and become a regular patient*|
+|*[`BACK TO TOP`](#HSO-TECH)*|
 
 
 ###### KB000018310
