@@ -8,3 +8,13 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 |![image](https://github.com/user-attachments/assets/28b668e5-5be1-48ee-97d4-0be6ad60434b)|
 |![image](https://github.com/user-attachments/assets/053af08c-8ad9-4268-b991-2c8d11f27615)|
 
+|`KB: Definition Limits Explained: Knowledge Article: Definition Limits Explained`|
+|----------------------------------------------------------------------------|
+|![image](https://github.com/user-attachments/assets/ecf619c9-67e2-415e-8048-39b78f66dd9c)|
+|![image](https://github.com/user-attachments/assets/cb2cadec-627d-42f8-a079-59de10db32e2)|
+|![image](https://github.com/user-attachments/assets/04c2dab3-b56c-4b7d-9a3a-86929bddd063)|
+|![image](https://github.com/user-attachments/assets/843eebec-0f91-4519-b892-afb8721a3393)|
+
+
+
+
