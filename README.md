@@ -31,8 +31,12 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 
 
 
-
-
+###### KB000011130
+| $\color{Apricot}\Huge{\textbf{KB: 000011130 Office Journal Entries Missing}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/a214c9ad-eea2-4641-ba88-6c5cd6f6f9b1)|
+|![image](https://github.com/user-attachments/assets/710fcc8a-72e7-4c98-848d-bbfe904bdc1d)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
 
 ###### KB000012460
 | $\color{Apricot}\Huge{\textbf{KB: 000012460 How To Open Days In The Appointment Book That Are Usually Closed}}$|
