@@ -4,6 +4,9 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 $\color{Cyan}\Huge{\textbf{Contents}}$
 |KB Number| Article | Category | Link |
 |---------|--------|--------|-------|
+
+|`000026938`| *Can I Add a New Type to the Office Journal* | **Office Journal** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000hXRBAA2/view)
+|`000013584`| *How To Use eDex - Feature Information* | **Front Office Track - EDEX** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000Q25XAAS/view)
 |`000012449`| *How To Guide: How to Setup Questionnaire Forms In G6.2+* | **Questionnaire** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pTcmAAE/view)
 |`000012304`| *Installing The Interlink ePad For Use With Dentrix* | **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka0KZ0000011i9FYAQ/view)
 |`000025418`| *Document Center Preferences, Defaults, & Setup Options* | **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000xZVGAA2/view)
@@ -16,6 +19,33 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000019688`| *Definition Limits Explained* | **Patient Info**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pE7HAAU/view)
 |`000061883`| *Known Issue (RESOLVED): Patient Chart More Info Button in Chart Causes Smart Image Error* | **Patient Info**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001US8YAAW/view)
 |`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | **Patient Info**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka0KZ0000010wslYAA/view)
+
+
+
+
+
+
+
+
+
+| $\color{Apricot}\Huge{\textbf{KB: 000026938: Can I Add a New Type to the Office Journal}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/b749097a-41c8-4932-b873-522e78fcedc8)|
+|![image](https://github.com/user-attachments/assets/c98e1d6a-efc8-49b0-ab5d-989e357e8d91)|
+
+
+
+
+
+
+| $\color{Apricot}\Huge{\textbf{KB: 000013584: How To Use eDex - Feature Information}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/821490e2-f1ca-47a2-80d0-9f871e7e2465)|
+|![image](https://github.com/user-attachments/assets/e7399f78-6e72-42e4-8caa-11a325caef1a)|
+|![image](https://github.com/user-attachments/assets/7b283871-4cef-4d6e-9c4f-317542d3644d)|
+
+
+
 
 | $\color{Apricot}\Huge{\textbf{KB: 000012449: How To Guide: How to Setup Questionnaire Forms In G6.2}}$|
 |-------------------------------------------|
