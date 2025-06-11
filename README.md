@@ -5,7 +5,7 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |📖 KB Number| 🔖 Article | 🧮 Category | 🗺️ Link to Salesforce |
 |-------------|------------|--------------|---------|
 |`000012091`| *Scheduled Production in Appointment Book Is Negative or Incorrect* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pborAAA/view)
-|`000018829`| *Continuing Care Cards Stop Merging* | **Appointment Book** | [`🔗`](#Continuing-Care)
+|`000018829`| *Continuing Care Cards Stop Merging* | **Appointment Book** | [`🔗`](#KB:-000018829)
 |`000016508`| *Hide Provider Tracking Columns* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pGR5AAM/view)
 |`000005594`| *Operatory Is Already Scheduled For Requested Time* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pBoLAAU/view)
 |`000012460`| *How To Open Days In The Appointment Book That Are Usually Closed* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UQcRAAW/view)
@@ -30,7 +30,7 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 
 
 
-## Continuing Care
+## KB: 000018829
 | $\color{Apricot}\Huge{\textbf{KB: 000018829 Continuing Care Cards Stop Merging}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/b5c719bb-a4db-4852-839d-f4a1ef1e3325)|
