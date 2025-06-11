@@ -19,8 +19,8 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000012304`| *Installing The Interlink ePad For Use With Dentrix* | **Document Center** | [`🔗`](#KB000012304)|
 |`000025418`| *Document Center Preferences, Defaults,  Setup Options* | **Document Center** | [`🔗`](#KB000025418)|
 |`000005572`| *Default Document Types in the Document Center (Add, Change, and Delete Types)* | **Document Center** | [`🔗`](#KB000005572)|
-|`000001422`| *Combine Documents feature (Document Center)* | **Document Center** | [`🔗`](KB000001422) |
-|`000019209`| *Auto File Acquisition And Unfiled Documents*| **Document Center** | [`🔗`](#KB000019209) |
+|`000001422`| *Combine Documents feature (Document Center)* | **Document Center** | [`🔗`](KB000001422)|
+|`000019209`| *Auto File Acquisition And Unfiled Documents*| **Document Center** | [`🔗`](#KB000019209)|
 |`000014404`| *Adding a New Provider in Dentrix* | **Patient Info** | [`🔗`](#KB000014404)|
 |`000001164`| *What Does Inactivating A Provider / Staff Member Do?*| **Patient Info**   | [`🔗`](#KB000001164)|
 |`000064239`| *Modifying Password Security Settings* | **Patient Info**  | [`🔗`](#KB000064239)
