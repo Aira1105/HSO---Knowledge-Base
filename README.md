@@ -17,6 +17,12 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 |![image](https://github.com/user-attachments/assets/04c2dab3-b56c-4b7d-9a3a-86929bddd063)|
 |![image](https://github.com/user-attachments/assets/843eebec-0f91-4519-b892-afb8721a3393)|
 
-|`KB: 000061883 : Knowledge Article
+| $\color{Apricot}\Huge{\textbf{KB: 000061883: Knowledge Article: Known Issue (RESOLVED): Patient Chart More Info Button in Chart Causes Smart Image Error}}$ |
+|----------------------------------------------------------|
+|![image](https://github.com/user-attachments/assets/7014befe-87be-41b9-9c44-d64f655e460b)|
+|![image](https://github.com/user-attachments/assets/bbb91346-fb98-4918-be55-635623e457fb)|
+|![image](https://github.com/user-attachments/assets/68d9dcb2-b9b0-4972-8ec9-0903961cbe84)|
+|![image](https://github.com/user-attachments/assets/2d10b69b-8125-4233-875f-4dfd0bb4a5e0)|
+
 
 
