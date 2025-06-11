@@ -30,7 +30,7 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 
 
 
-## KB000018829
+###### KB000018829
 | $\color{Apricot}\Huge{\textbf{KB: 000018829 Continuing Care Cards Stop Merging}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/b5c719bb-a4db-4852-839d-f4a1ef1e3325)|
