@@ -4,6 +4,7 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 $\color{Cyan}\Huge{\textbf{Contents}}$
 |KB Number| Article | Category | Link |
 |---------|--------|--------|-------|
+|`000012304`| *Installing The Interlink ePad For Use With Dentrix* | **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka0KZ0000011i9FYAQ/view)
 |`000025418`| *Document Center Preferences, Defaults, & Setup Options* | **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000xZVGAA2/view)
 |`000005572`| *Default Document Types in the Document Center (Add, Change, and Delete Types)* | **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000hY3FAAU/view)
 |`000001422`| *Combine Documents feature (Document Center)* | **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pE8XAAU/view)
@@ -14,6 +15,19 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000019688`| *Definition Limits Explained* | **Patient Info**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pE7HAAU/view)
 |`000061883`| *Known Issue (RESOLVED): Patient Chart More Info Button in Chart Causes Smart Image Error* | **Patient Info**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001US8YAAW/view)
 |`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | **Patient Info**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka0KZ0000010wslYAA/view)
+
+| $\color{Apricot}\Huge{\textbf{KB: 000012304: Installing The Interlink ePad For Use With Dentrix}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/cacc4123-4eb4-497e-bf04-45e80e7f4382)|
+|![image](https://github.com/user-attachments/assets/4845f013-cf5c-4c71-9ca0-fd12379a70a5)|
+|![image](https://github.com/user-attachments/assets/acd4581d-876c-428a-910a-af8413df5d08)|
+|![image](https://github.com/user-attachments/assets/496ede0e-3934-40fa-8f02-7ec449e6f00d)|
+|![image](https://github.com/user-attachments/assets/613a9606-081d-45e1-b256-c839432d245d)|
+
+
+
+
+
 
 
 | $\color{Apricot}\Huge{\textbf{KB: 000025418: Document Center Preferences, Defaults, Setup Options}}$|
