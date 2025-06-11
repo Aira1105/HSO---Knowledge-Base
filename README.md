@@ -6,10 +6,19 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 
 |KB Number| Article|
 |---------|--------|
+|`000001164`| *What Does Inactivating A Provider / Staff Member Do?*|
 |`000064239`| *Modifying Password Security Settings* |
 |`000019688`| *Definition Limits Explained* |
 |`000061883`| *Known Issue (RESOLVED): Patient Chart More Info Button in Chart Causes Smart Image Error* |
 |`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* |
+
+
+| $\color{Apricot}\Huge{\textbf{KB: 000001164: Knowledge Article: What Does Inactivating A Provider / Staff Member Do?}}$|
+|----------------------------------------------|
+|![image](https://github.com/user-attachments/assets/65458dfa-758c-44b7-b082-c904cb238422)|
+|![image](https://github.com/user-attachments/assets/8b049f2a-dcd7-4de6-90ac-7418c40cd058)|
+
+
 
 | $\color{Apricot}\Huge{\textbf{KB: 000064239: Knowledge Article: Modifying Password Security Settings}}$ | 
 |-------------------------------------------------------------------------|
@@ -37,6 +46,8 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 |![image](https://github.com/user-attachments/assets/22f8ea0a-c53f-49ff-ae5f-7622efc2d0e3)|
 |![image](https://github.com/user-attachments/assets/6a3eb5a1-ba53-42c4-a36a-3517e4c041a8)|
 |![image](https://github.com/user-attachments/assets/c5cb3d77-96da-453d-afa0-a8e9a2c035b6)|
+
+
 
 
 
