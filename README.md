@@ -29,6 +29,19 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 
 
 
+###### KB000012091
+| $\color{Apricot}\Huge{\textbf{KB: 000012091 Continuing Care Cards Stop Merging}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/1fffa9ea-3293-469c-a9fc-0d013bf5603d)|
+|![image](https://github.com/user-attachments/assets/bd8a81b7-0346-453d-a963-4ba3dc11db4a)|
+|![image](https://github.com/user-attachments/assets/9673a956-8416-4943-9a35-c6b1930d8c25)|
+
+
+
+
+
+
+
 
 ###### KB000018829
 | $\color{Apricot}\Huge{\textbf{KB: 000018829 Continuing Care Cards Stop Merging}}$|
