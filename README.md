@@ -6,7 +6,7 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 
 |KB Number| Article|
 |---------|--------|
-|
+|`000064239`| Modifying Password Security Settings |
 
 | $\color{Apricot}\Huge{\textbf{KB: 000064239: Knowledge Article: Modifying Password Security Settings}}$ | 
 |-------------------------------------------------------------------------|
