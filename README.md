@@ -4,7 +4,8 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 $\color{Cyan}\Huge{\textbf{Contents}}$
 |KB Number| Article | Category | Link |
 |---------|--------|--------|-------|
-|`000005572`| *Default Document Types in the Document Center (Add, Change, and Delete Types)* | **Document Center**| [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000hY3FAAU/view)
+|`000025418`| *Document Center Preferences, Defaults, & Setup Options* | **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000xZVGAA2/view)
+|`000005572`| *Default Document Types in the Document Center (Add, Change, and Delete Types)* | **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000hY3FAAU/view)
 |`000001422`| *Combine Documents feature (Document Center)* | **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pE8XAAU/view)
 |`000019209`| *Auto File Acquisition And Unfiled Documents*| **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka0KZ0000012BpCYAU/view)
 |`000014404`| *Adding a New Provider in Dentrix* | **Patient Info** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UaBVAA0/view)|
@@ -15,8 +16,14 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | **Patient Info**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka0KZ0000010wslYAA/view)
 
 
-| $\color{Apricot}\Huge{\textbf{KB: 000005572: Default Document Types in the Document Center (Add, Change, and Delete Types)}}$|
+| $\color{Apricot}\Huge{\textbf{KB: 000025418: Document Center Preferences, Defaults, & Setup Options}}$|
 |-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/37d4c885-d037-426b-be19-8886a9c1515f)|
+|![image](https://github.com/user-attachments/assets/f8bd4a1e-9cd3-4081-acf8-3bb73167a53a)|
+|![image](https://github.com/user-attachments/assets/5a437ef0-5e64-41a5-9df4-db278338312c)|
+
+
+
 
 
 
