@@ -4,7 +4,6 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 $\color{Cyan}\Huge{\textbf{Contents}}$
 |📖 KB Number| 🔖 Article | 🧮 Category | 🗺️ Link  |
 |-------------|------------|--------------|---------|
-|`
 |`000019336`| *Unable To Open A Day In The Appointment Book* | **Appointment Book** | [`🔗`](#KB000019336)
 |`000012091`| *Scheduled Production in Appointment Book Is Negative or Incorrect* | **Appointment Book** | [`🔗`](#KB000012091)|
 |`000018829`| *Continuing Care Cards Stop Merging* | **Appointment Book** | [`🔗`](#KB000018829)|
