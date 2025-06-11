@@ -4,12 +4,12 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 $\color{Cyan}\Huge{\textbf{Contents}}$
 |KB Number| Article | Category | Link |
 |---------|--------|--------|-------|
-|`000014404`| *Adding a New Provider in Dentrix* | **Patient Information** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UaBVAA0/view)|
-|`000001164`| *What Does Inactivating A Provider / Staff Member Do?*| **Patient Information**   |
-|`000064239`| *Modifying Password Security Settings* | **Patient Information**  |
-|`000019688`| *Definition Limits Explained* | **Patient Information**   |
-|`000061883`| *Known Issue (RESOLVED): Patient Chart More Info Button in Chart Causes Smart Image Error* | **Patient Information**   |
-|`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | **Patient Information**   |
+|`000014404`| *Adding a New Provider in Dentrix* | **Patient Info** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UaBVAA0/view)|
+|`000001164`| *What Does Inactivating A Provider / Staff Member Do?*| **Patient Infor**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pGwsAAE/view)
+|`000064239`| *Modifying Password Security Settings* | **Patient Info**  | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka0KZ0000010xNPYAY/view)
+|`000019688`| *Definition Limits Explained* | **Patient Infor**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pE7HAAU/view)
+|`000061883`| *Known Issue (RESOLVED): Patient Chart More Info Button in Chart Causes Smart Image Error* | **Patient Info**   |
+|`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | **Patient Info**   |
 
 
 | $\color{Apricot}\Huge{\textbf{KB: 000014404: Knowledge Article: Adding a New Provider in Dentrix}}$|
