@@ -34,6 +34,12 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 
 
 
+###### KB000012460
+| $\color{Apricot}\Huge{\textbf{KB: 000012460 How To Open Days In The Appointment Book That Are Usually Closed}}$|
+|-------------------------------------------|
+|
+
+
 
 
 ###### KB000019336
