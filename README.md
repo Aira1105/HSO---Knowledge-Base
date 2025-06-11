@@ -7,7 +7,7 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000012091`| *Scheduled Production in Appointment Book Is Negative or Incorrect* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pborAAA/view)
 |`000018829`| *Continuing Care Cards Stop Merging* | **Appointment Book** | [`🔗`](#KB000018829)
 |`000016508`| *Hide Provider Tracking Columns* | **Appointment Book** | [`🔗`](#KB000016508)
-|`000005594`| *Operatory Is Already Scheduled For Requested Time* | **Appointment Book** | [`🔗`](KB000005594)
+|`000005594`| *Operatory Is Already Scheduled For Requested Time* | **Appointment Book** | [`🔗`](#KB000005594)
 |`000012460`| *How To Open Days In The Appointment Book That Are Usually Closed* | **Appointment Book** | [`🔗`](#KB000012460)
 |`000062142`| *Known Issue (RESOLVED): 24.8+ Appointment Book  Ledger Freezing, Not Able to Set Appointment Complete* | **Appointment Book** | [`🔗`](#KB000062142)
 |`000061554`| *Known Issue: (RESOLVED) Appointment Book Slow on 24.5  24.6* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UatTAAS/view)
@@ -41,6 +41,7 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/9b93e25e-9cc4-4c1d-b308-cca24d7934ce)|
 |![image](https://github.com/user-attachments/assets/ce0c13df-8325-4aa0-8cf7-3f64d87b34d0)|
+
 
 | $\color{Apricot}\Huge{\textbf{KB: 000005594 Operatory Is Already Scheduled For Requested Time}}$|
 |-------------------------------------------|
