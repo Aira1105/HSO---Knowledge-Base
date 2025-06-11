@@ -16,7 +16,7 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | **Patient Info**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka0KZ0000010wslYAA/view)
 
 
-| $\color{Apricot}\Huge{\textbf{KB: 000025418: Document Center Preferences, Defaults, & Setup Options}}$|
+| $\color{Apricot}\Huge{\textbf{KB: 000025418: Document Center Preferences, Defaults, Setup Options}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/37d4c885-d037-426b-be19-8886a9c1515f)|
 |![image](https://github.com/user-attachments/assets/f8bd4a1e-9cd3-4081-acf8-3bb73167a53a)|
