@@ -1,7 +1,9 @@
 
 $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 
-|`KB: 000064239: Knowledge Article: Modifying Password Security Settings`| 
+
+
+|$\color{Purple}\Huge{\textbf{`KB: 000064239: Knowledge Article: Modifying Password Security Settings`}}$| 
 |-------------------------------------------------------------------------|
 |![image](https://github.com/user-attachments/assets/571233e4-5977-4a5c-9bd7-0cddca47f43b)|
 |![image](https://github.com/user-attachments/assets/16cd867b-3b4d-4f28-9f18-342cdb6331c0)|
@@ -15,6 +17,6 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 |![image](https://github.com/user-attachments/assets/04c2dab3-b56c-4b7d-9a3a-86929bddd063)|
 |![image](https://github.com/user-attachments/assets/843eebec-0f91-4519-b892-afb8721a3393)|
 
-
+|`KB: 000061883 : Knowledge Article
 
 
