@@ -4,6 +4,10 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 $\color{Cyan}\Huge{\textbf{Contents}}$
 |📖 KB Number| 🔖 Article | 🧮 Category | 🗺️ Link |
 |---------|--------|--------|-------|
+|`000012460`| *How To Open Days In The Appointment Book That Are Usually Closed* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UQcRAAW/view)
+|`000062142`| *Known Issue (RESOLVED): 24.8+ Appointment Book & Ledger Freezing, Not Able to Set Appointment Complete* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UZMmAAO/view)
+|`000061554`| *Known Issue: (RESOLVED) Appointment Book Slow on 24.5 & 24.6* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UatTAAS/view)
+|`000011130`| *Office Journal Entries Missing* | **Office Journal** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UQXwAAO/view)
 |`000026938`| *Can I Add a New Type to the Office Journal* | **Office Journal** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000hXRBAA2/view)
 |`000013584`| *How To Use eDex - Feature Information* | **Front Office Track - EDEX** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000Q25XAAS/view)
 |`000012449`| *How To Guide: How to Setup Questionnaire Forms In G6.2+* | **Questionnaire** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pTcmAAE/view)
@@ -21,7 +25,48 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 
 
 
+| $\color{Apricot}\Huge{\textbf{KB: 000062142 Known Issue (RESOLVED): 24.8+ Appointment Book & Ledger Freezing, Not Able to Set Appointment Complete}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/278c9c61-6d23-4765-bc43-c3863b4c82e3)|
+|![image](https://github.com/user-attachments/assets/d3cfd6dd-d65a-4465-b751-24a3dad54fd5)|
+|![image](https://github.com/user-attachments/assets/7629dd23-c5c7-47c1-8a3f-d1e6c14aed77)|
 
+
+
+
+
+
+
+
+
+
+
+
+| $\color{Apricot}\Huge{\textbf{KB: 000062142 Known Issue (RESOLVED): 24.8+ Appointment Book & Ledger Freezing, Not Able to Set Appointment Complete}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/24d362ac-6b9a-47ab-9e83-2493a3ae3ff8)|
+|![image](https://github.com/user-attachments/assets/947ddb92-b50a-433c-83f1-1274c22b3627)|
+|![image](https://github.com/user-attachments/assets/bdae0c7a-7cde-4278-b99f-766857ca2203)|
+|![image](https://github.com/user-attachments/assets/7afb2fa2-0059-4853-8b70-37a4a063548f)|
+
+
+
+
+
+| $\color{Apricot}\Huge{\textbf{KB: 000061554 Known Issue: (RESOLVED) Appointment Book Slow on 24.5 & 24.6}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/fdf86abc-7627-4b4d-85f0-24896ce26e84)|
+|![image](https://github.com/user-attachments/assets/fa5c992f-da36-4f87-aa2f-0ffd39c29f2e)|
+
+
+
+
+
+
+| $\color{Apricot}\Huge{\textbf{KB: 00011130: Office Journal Entries Missing}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/f9e581fe-4248-4908-a8c3-576c33e3aac7)|
+|![image](https://github.com/user-attachments/assets/65249bbc-990a-4404-a532-bc7ce90162dc)|
 
 
 
