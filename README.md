@@ -42,7 +42,7 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |![image](https://github.com/user-attachments/assets/9b93e25e-9cc4-4c1d-b308-cca24d7934ce)|
 |![image](https://github.com/user-attachments/assets/ce0c13df-8325-4aa0-8cf7-3f64d87b34d0)|
 
-
+###### KB000005594
 | $\color{Apricot}\Huge{\textbf{KB: 000005594 Operatory Is Already Scheduled For Requested Time}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/3243fa7b-eb0d-4762-8ca1-8a1739edb663)|
