@@ -6,8 +6,6 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 
 |KB Number| Article|
 |---------|--------|
-|            |           |
-
 |`000014404`| *Adding a New Provider in Dentrix* |
 |`000001164`| *What Does Inactivating A Provider / Staff Member Do?*|
 |`000064239`| *Modifying Password Security Settings* |
