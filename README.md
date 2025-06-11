@@ -3,7 +3,7 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 
 $\color{Cyan}\Huge{\textbf{Contents}}$
 |📖 KB Number| 🔖 Article | 🧮 Category | 🗺️ Link |
-|---------|--------|--------|-------|
+|-------------|------------|--------------|---------|
 |`000012460`| *How To Open Days In The Appointment Book That Are Usually Closed* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UQcRAAW/view)
 |`000062142`| *Known Issue (RESOLVED): 24.8+ Appointment Book  Ledger Freezing, Not Able to Set Appointment Complete* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UZMmAAO/view)
 |`000061554`| *Known Issue: (RESOLVED) Appointment Book Slow on 24.5  24.6* | **Appointment Book** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UatTAAS/view)
