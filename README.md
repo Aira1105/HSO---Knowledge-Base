@@ -8,12 +8,12 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000012091`| *Scheduled Production in Appointment Book Is Negative or Incorrect* | **Appointment Book** | [`🔗`](#KB000012091)|
 |`000018829`| *Continuing Care Cards Stop Merging* | **Appointment Book** | [`🔗`](#KB000018829)|
 |`000016508`| *Hide Provider Tracking Columns* | **Appointment Book** | [`🔗`](#KB000016508)|
-|`000005594`| *Operatory Is Already Scheduled For Requested Time* | **Appointment Book** | [`🔗`](#KB000005594)|
-|`000012460`| *How To Open Days In The Appointment Book That Are Usually Closed* | **Appointment Book** | [`🔗`](#KB000012460)|
-|`000062142`| *Known Issue (RESOLVED): 24.8+ Appointment Book  Ledger Freezing, Not Able to Set Appointment Complete* | **Appointment Book** | [`🔗`](#KB000062142)|
-|`000061554`| *Known Issue: (RESOLVED) Appointment Book Slow on 24.5  24.6* | **Appointment Book** | [`🔗`](#KB000061554)|
-|`000011130`| *Office Journal Entries Missing* | **Office Journal** | [`🔗`](#KB000011130)|
-|`000026938`| *Can I Add a New Type to the Office Journal* | **Office Journal** | [`🔗`](#KB000026938)|
+|`000005594`| *Operatory Is Already Scheduled For Requested Time* | **Appointment Book** | [`🔗`](#KB000005594) |
+|`000012460`| *How To Open Days In The Appointment Book That Are Usually Closed* | **Appointment Book** | [`🔗`](#KB000012460) |
+|`000062142`| *Known Issue (RESOLVED): 24.8+ Appointment Book  Ledger Freezing, Not Able to Set Appointment Complete* | **Appointment Book** | [`🔗`](#KB000062142) |
+|`000061554`| *Known Issue: (RESOLVED) Appointment Book Slow on 24.5  24.6* | **Appointment Book** | [`🔗`](#KB000061554) |
+|`000011130`| *Office Journal Entries Missing* | **Office Journal** | [`🔗`](#KB000011130) |
+|`000026938`| *Can I Add a New Type to the Office Journal* | **Office Journal** | [`🔗`](#KB000026938) |
 |`000013584`| *How To Use eDex - Feature Information* | **Front Office Track - EDEX** | [`🔗`](#KB000013584)|
 |`000012449`| *How To Guide: How to Setup Questionnaire Forms In G6.2+* | **Questionnaire** | [`🔗`](#KB000012449)|
 |`000012304`| *Installing The Interlink ePad For Use With Dentrix* | **Document Center** | [`🔗`](#KB000012304)|
