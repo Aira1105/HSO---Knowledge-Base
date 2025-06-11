@@ -4,12 +4,12 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 $\color{Cyan}\Huge{\textbf{Contents}}$
 |KB Number| Article | Category |
 |---------|--------|--------|
-|`000014404`| *Adding a New Provider in Dentrix* | Patient Information |
-|`000001164`| *What Does Inactivating A Provider / Staff Member Do?*| Patient Information  |
-|`000064239`| *Modifying Password Security Settings* | Patient Information  |
-|`000019688`| *Definition Limits Explained* | Patient Information  |
-|`000061883`| *Known Issue (RESOLVED): Patient Chart More Info Button in Chart Causes Smart Image Error* | Patient Information  |
-|`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | Patient Information  |
+|`000014404`| *Adding a New Provider in Dentrix* | **Patient Information** |
+|`000001164`| *What Does Inactivating A Provider / Staff Member Do?*| **Patient Information**   |
+|`000064239`| *Modifying Password Security Settings* | **Patient Information**  |
+|`000019688`| *Definition Limits Explained* | **Patient Information**   |
+|`000061883`| *Known Issue (RESOLVED): Patient Chart More Info Button in Chart Causes Smart Image Error* | **Patient Information**   |
+|`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | **Patient Information**   |
 
 
 | $\color{Apricot}\Huge{\textbf{KB: 000014404: Knowledge Article: WAdding a New Provider in Dentrix}}$|
