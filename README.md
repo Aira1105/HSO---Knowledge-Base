@@ -4,6 +4,9 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 $\color{Cyan}\Huge{\textbf{Contents}}$
 |📖 KB Number| 🔖 Article | 🧮 Category | 🗺️ Link  |
 |-------------|------------|--------------|---------|
+|`000023649`| *How to Generate Recall/Continuing Care Cards (With or Without Appts) In Dentrix* | **Continuing Care** | [`🔗`](#KB000023649)
+|`000014120`| *Continuing Care - Feature Information* | **Continuing Care** | [`🔗`](#KB000014120)
+|`000016737`| *Cannot Read Appointment File* | **Appointment Book** | [`🔗`](#KB000016737)
 |`000019336`| *Unable To Open A Day In The Appointment Book* | **Appointment Book** | [`🔗`](#KB000019336)
 |`000012091`| *Scheduled Production in Appointment Book Is Negative or Incorrect* | **Appointment Book** | [`🔗`](#KB000012091)|
 |`000018829`| *Continuing Care Cards Stop Merging* | **Appointment Book** | [`🔗`](#KB000018829)|
@@ -30,6 +33,41 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 
 
 
+###### KB000023649
+| $\color{Apricot}\Huge{\textbf{KB:000023649 How to Generate Recall/Continuing Care Cards (With or Without Appts) In Dentrix}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/3aa5fe8f-4843-409d-9b1e-5596d7ed37f8)|
+|![image](https://github.com/user-attachments/assets/576bb904-dd07-465e-a44c-0fb1e2948e85)|
+|![image](https://github.com/user-attachments/assets/5ebdfe6c-90c7-4077-b9b2-dc045f05da7a)|
+|![image](https://github.com/user-attachments/assets/9889de17-bb9c-442d-a1a5-247fc0189a8a)|
+|![image](https://github.com/user-attachments/assets/54791b49-93e3-45b3-9847-8dee22dd8988)|
+
+
+
+
+
+
+
+###### KB000014120
+| $\color{Apricot}\Huge{\textbf{KB: 000014120 Continuing Care - Feature Information}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/d871dd6c-9794-49cb-9c62-1ad4b0e8672c)|
+|![image](https://github.com/user-attachments/assets/d1d0dbe6-36d1-4f5a-9a0d-bbd8ec304715)|
+|![image](https://github.com/user-attachments/assets/8f6e712f-feca-4fc1-9f55-88ac92352a9b)|
+|![image](https://github.com/user-attachments/assets/b4f62104-139e-497c-a05a-aa2a9809abd5)|
+|![image](https://github.com/user-attachments/assets/96c1c1a8-706a-4bde-b723-615eecb6828e)|
+|![image](https://github.com/user-attachments/assets/171388d0-0e4e-40cc-b883-9f9a66a3f6e6)|
+|![image](https://github.com/user-attachments/assets/398cd6b9-68a7-471d-a1d0-da14e83b896f)|
+|*Common Calls / The customer says: My doctor wants me to mail postcards to my patients who have not made appointments yet for their cleanings*|
+|*[`BACK TO TOP`](#HSO-TECH)*|
+
+
+###### KB000016737
+| $\color{Apricot}\Huge{\textbf{KB: 000016737 Cannot Read Appointment File}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/0ce489e4-bb3c-433c-afd2-796284033f17)|
+|![image](https://github.com/user-attachments/assets/4f987cef-1213-4439-abe3-2795ccac9399)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
 
 ###### KB000011130
 | $\color{Apricot}\Huge{\textbf{KB: 000011130 Office Journal Entries Missing}}$|
