@@ -7,7 +7,8 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 |KB Number| Article|
 |---------|--------|
 |`000064239`| Modifying Password Security Settings |
-|
+|`000019688`| Definition Limits Explained |
+|`000061883`| Known Issue (RESOLVED): Patient Chart More Info Button in Chart Causes Smart Image Error |
 
 | $\color{Apricot}\Huge{\textbf{KB: 000064239: Knowledge Article: Modifying Password Security Settings}}$ | 
 |-------------------------------------------------------------------------|
@@ -16,7 +17,7 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 |![image](https://github.com/user-attachments/assets/28b668e5-5be1-48ee-97d4-0be6ad60434b)|
 |![image](https://github.com/user-attachments/assets/053af08c-8ad9-4268-b991-2c8d11f27615)|
 
-| $\color{Apricot}\Huge{\textbf{KB: 000019688 Definition Limits Explained: Knowledge Article: Definition Limits Explained}}$ |
+| $\color{Apricot}\Huge{\textbf{KB: 000019688 Knowledge Article: Definition Limits Explained}}$ |
 |----------------------------------------------------------------------------|
 |![image](https://github.com/user-attachments/assets/ecf619c9-67e2-415e-8048-39b78f66dd9c)|
 |![image](https://github.com/user-attachments/assets/cb2cadec-627d-42f8-a079-59de10db32e2)|
