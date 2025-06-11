@@ -4,31 +4,28 @@ $\color{Purple}\Huge{\textbf{HSO Knowledge Base - From Training}}$
 $\color{Cyan}\Huge{\textbf{Contents}}$
 |📖 KB Number| 🔖 Article | 🧮 Category | 🗺️ Link  |
 |-------------|------------|--------------|---------|
-|`000012091`| *Scheduled Production in Appointment Book Is Negative or Incorrect* | **Appointment Book** | [`🔗`](#KB000012091)
-|`000018829`| *Continuing Care Cards Stop Merging* | **Appointment Book** | [`🔗`](#KB000018829)
-|`000016508`| *Hide Provider Tracking Columns* | **Appointment Book** | [`🔗`](#KB000016508)
-|`000005594`| *Operatory Is Already Scheduled For Requested Time* | **Appointment Book** | [`🔗`](#KB000005594)
-|`000012460`| *How To Open Days In The Appointment Book That Are Usually Closed* | **Appointment Book** | [`🔗`](#KB000012460)
-|`000062142`| *Known Issue (RESOLVED): 24.8+ Appointment Book  Ledger Freezing, Not Able to Set Appointment Complete* | **Appointment Book** | [`🔗`](#KB000062142)
-|`000061554`| *Known Issue: (RESOLVED) Appointment Book Slow on 24.5  24.6* | **Appointment Book** | [`🔗`](#KB000061554)
-|`000011130`| *Office Journal Entries Missing* | **Office Journal** | [`🔗`](#KB000011130)
-|`000026938`| *Can I Add a New Type to the Office Journal* | **Office Journal** | [`🔗`](#KB000026938)
-|`000013584`| *How To Use eDex - Feature Information* | **Front Office Track - EDEX** | [`🔗`](#KB000013584)
-|`000012449`| *How To Guide: How to Setup Questionnaire Forms In G6.2+* | **Questionnaire** | [`🔗`](#KB000012449)
-|`000012304`| *Installing The Interlink ePad For Use With Dentrix* | **Document Center** | [`🔗`](#KB000012304)
-|`000025418`| *Document Center Preferences, Defaults,  Setup Options* | **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000xZVGAA2/view)
-|`000005572`| *Default Document Types in the Document Center (Add, Change, and Delete Types)* | **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000hY3FAAU/view)
-|`000001422`| *Combine Documents feature (Document Center)* | **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pE8XAAU/view)
-|`000019209`| *Auto File Acquisition And Unfiled Documents*| **Document Center** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka0KZ0000012BpCYAU/view)
-|`000014404`| *Adding a New Provider in Dentrix* | **Patient Info** | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UaBVAA0/view)|
-|`000001164`| *What Does Inactivating A Provider / Staff Member Do?*| **Patient Info**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pGwsAAE/view)
-|`000064239`| *Modifying Password Security Settings* | **Patient Info**  | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka0KZ0000010xNPYAY/view)
-|`000019688`| *Definition Limits Explained* | **Patient Info**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pE7HAAU/view)
-|`000061883`| *Known Issue (RESOLVED): Patient Chart More Info Button in Chart Causes Smart Image Error* | **Patient Info**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001US8YAAW/view)
-|`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | **Patient Info**   | [`🔗`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka0KZ0000010wslYAA/view)
-
-
-
+|`000012091`| *Scheduled Production in Appointment Book Is Negative or Incorrect* | **Appointment Book** | [`🔗`](#KB000012091)|
+|`000018829`| *Continuing Care Cards Stop Merging* | **Appointment Book** | [`🔗`](#KB000018829)|
+|`000016508`| *Hide Provider Tracking Columns* | **Appointment Book** | [`🔗`](#KB000016508)|
+|`000005594`| *Operatory Is Already Scheduled For Requested Time* | **Appointment Book** | [`🔗`](#KB000005594)|
+|`000012460`| *How To Open Days In The Appointment Book That Are Usually Closed* | **Appointment Book** | [`🔗`](#KB000012460)|
+|`000062142`| *Known Issue (RESOLVED): 24.8+ Appointment Book  Ledger Freezing, Not Able to Set Appointment Complete* | **Appointment Book** | [`🔗`](#KB000062142)|
+|`000061554`| *Known Issue: (RESOLVED) Appointment Book Slow on 24.5  24.6* | **Appointment Book** | [`🔗`](#KB000061554)|
+|`000011130`| *Office Journal Entries Missing* | **Office Journal** | [`🔗`](#KB000011130)|
+|`000026938`| *Can I Add a New Type to the Office Journal* | **Office Journal** | [`🔗`](#KB000026938)|
+|`000013584`| *How To Use eDex - Feature Information* | **Front Office Track - EDEX** | [`🔗`](#KB000013584)|
+|`000012449`| *How To Guide: How to Setup Questionnaire Forms In G6.2+* | **Questionnaire** | [`🔗`](#KB000012449)|
+|`000012304`| *Installing The Interlink ePad For Use With Dentrix* | **Document Center** | [`🔗`](#KB000012304)|
+|`000025418`| *Document Center Preferences, Defaults,  Setup Options* | **Document Center** | [`🔗`](#KB000025418)|
+|`000005572`| *Default Document Types in the Document Center (Add, Change, and Delete Types)* | **Document Center** | [`🔗`](#KB000005572)|
+|`000001422`| *Combine Documents feature (Document Center)* | **Document Center** | [`🔗`](KB000001422) |
+|`000019209`| *Auto File Acquisition And Unfiled Documents*| **Document Center** | [`🔗`](#KB000019209) |
+|`000014404`| *Adding a New Provider in Dentrix* | **Patient Info** | [`🔗`](#KB000014404)|
+|`000001164`| *What Does Inactivating A Provider / Staff Member Do?*| **Patient Info**   | [`🔗`](#KB000001164)|
+|`000064239`| *Modifying Password Security Settings* | **Patient Info**  | [`🔗`](#KB000064239)
+|`000019688`| *Definition Limits Explained* | **Patient Info**   | [`🔗`](#KB000019688)
+|`000061883`| *Known Issue (RESOLVED): Patient Chart More Info Button in Chart Causes Smart Image Error* | **Patient Info**   | [`🔗`](#KB000061883)
+|`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | **Patient Info**   | [`🔗`](#KB000025513)
 
 
 ###### KB000012091     
