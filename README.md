@@ -45,7 +45,7 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 
 
 ###### KB000013882
-| $\color{Apricot}\Huge{\textbf{KB:000013882 Selecting Patient Error : Unhandled Exception...Object Reference Not Set To An Instance Of An Object}}$|
+| $\color{Apricot}\Huge{\textbf{KB:000013882 Selecting Patient Error : Unhandled Exception...Object Reference Not Set To An Instance Of An Object}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/0e726b48-5d64-4e6f-b7ac-d54d6df543b0)|
 |![image](https://github.com/user-attachments/assets/33b8f847-a59c-4979-a6d0-1403760599c9)|
