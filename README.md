@@ -40,9 +40,16 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | **Patient Info**   | [`🔗`](#KB000025513)
 |`000013882`| *Selecting Patient Error : Unhandled Exception...Object Reference Not Set To An Instance Of An Object* | **Treatment Plan** | [`🔗`](#KB000013882)
 |`000005723`| *Adding A Default Note to a Treatment Plan in Dentrix* | **Treatment Plan** | [`🔗`](#KB000005723)
+|`000012801`| *Plus Sign Missing From Treatment Plan Case* | **Treatment Plan** | [`🔗`](#KB000012801)
 
 
 
+###### KB000012801
+| $\color{Apricot}\Huge{\textbf{KB:000012801 Plus Sign Missing From Treatment Plan Case}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/35f753ca-3735-48fc-9e29-52b25ad5a81b)|
+|![image](https://github.com/user-attachments/assets/ff262bea-0de5-40b2-94d9-ef393954a6a1)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
 
 
 
