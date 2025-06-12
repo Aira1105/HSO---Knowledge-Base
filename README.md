@@ -38,6 +38,19 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000019688`| *Definition Limits Explained* | **Patient Info**   | [`🔗`](#KB000019688)
 |`000061883`| *Known Issue (RESOLVED): Patient Chart More Info Button in Chart Causes Smart Image Error* | **Patient Info**   | [`🔗`](#KB000061883)
 |`000025513`| *How To Update Customer Name, Address, Email, Or Phone Number on Account in Salesforce* | **Patient Info**   | [`🔗`](#KB000025513)
+|`000013882`| *Selecting Patient Error : Unhandled Exception...Object Reference Not Set To An Instance Of An Object* | **Treatment Plan** | [`🔗`](#KB000013882)
+|`000005723`| *Adding A Default Note to a Treatment Plan in Dentrix* | **Treatment Plan** | [`🔗`](#KB000005723)
+
+
+
+
+###### KB000013882
+| $\color{Apricot}\Huge{\textbf{KB:000013882 Selecting Patient Error : Unhandled Exception...Object Reference Not Set To An Instance Of An Object}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/0e726b48-5d64-4e6f-b7ac-d54d6df543b0)|
+|![image](https://github.com/user-attachments/assets/33b8f847-a59c-4979-a6d0-1403760599c9)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
+
 
 
 ###### KB000015945
