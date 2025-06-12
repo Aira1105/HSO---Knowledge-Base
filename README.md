@@ -44,6 +44,22 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 
 
 
+
+
+###### KB000005723
+| $\color{Apricot}\Huge{\textbf{KB:000005723 Adding A Default Note to a Treatment Plan in Dentrix}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/43c92101-2b2f-484a-b27f-a0642f227c89)|
+|![image](https://github.com/user-attachments/assets/bc1226b5-ea4c-4854-80c3-eb8db68b772d)|
+|![image](https://github.com/user-attachments/assets/96274bb1-08f0-4c69-a3ce-9dc482bd85ee)|
+|![image](https://github.com/user-attachments/assets/fca488ef-7ede-4227-ae23-f17b68d0a6c7)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
+
+
+
+
+
+
 ###### KB000013882
 | KB:000013882 Selecting Patient Error : Unhandled Exception...Object Reference Not Set To An Instance Of An Object|
 |-------------------------------------------|
