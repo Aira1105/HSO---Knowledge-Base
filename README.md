@@ -58,10 +58,20 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000014928`| *General Guide for Troubleshooting Scanner Compatibility Issues In the Dentrix Document Center Acquire From Device* | **Tech Support** | [`🔗:`](#KB000014928)
 |`000019209`| *Document Center: Auto File Acquisition And Unfiled Documents* | **Document Center** | [`🔗`](#KB000019209)
 |`000011673`| *Print Appointment Book View - Feature Information* | **Document Center** | [`🔗`](#KB000011673)
+|`000023858`| *Changing Appointment Book View Defaults* | **Appointment Book** | [`🔗`](#KB000023858)
 
 
 
 
+
+
+
+###### KB#000023858
+| $\color{Apricot}\Huge{\textbf{KB000023858 Changing Appointment Book View Defaults}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/b7a9eb2a-5c01-4e6b-96f9-d73717a60cba)|
+|![image](https://github.com/user-attachments/assets/1e953df0-15c2-46c9-b4bc-d6bc46b0dedf)|
+|*[`BACK TO TOP ⏫`](#HSO-TECH)*|
 
 ###### KB#0000011673
 | $\color{Apricot}\Huge{\textbf{KB000011673Print Appointment Book View - Feature Information}}$|
