@@ -52,11 +52,27 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000054347`| *How To Add a Billing Type* | **Dentrix Billing** | [`🔗`](#KB000054347)
 |`000061548`| *How To Set Up Time Blocks (Perfect Day Scheduling)* | **Pending** | [`🔗`](#KB000061548)
 |`000007189`| *Finding All Overdue Patients For Recall Continuing Care In Dentrix* | **Continuing Care** | [🔗](#KB000007189)
+|`000062845`| *Viewing or Editing a Fee Schedule* | **Pending** | [`🔗`](#KB000062845)
+|`000006486`| *How To Change the Head of Household Guarantor* | **Pending** | [`🔗`](#KB000006486)
 
 
+###### KB#000006486
+| $\color{Apricot}\Huge{\textbf{KB000006486 How To Change the Head of Household Guarantor}}$|
+|-------------------------------------------|
+|
 
 
-
+###### KB#000062845
+| $\color{Apricot}\Huge{\textbf{KB000062845 Viewing or Editing a Fee Schedule}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/c7e69b71-c0d7-43b9-b9e9-6eb184060710)|
+|![image](https://github.com/user-attachments/assets/f6ad96f1-23ac-4087-9dfd-820cef0d87b8)|
+|![image](https://github.com/user-attachments/assets/d7029a9c-d90b-47e6-8505-2fbcf692d056)|
+|![image](https://github.com/user-attachments/assets/3e58ff8f-9c57-4b26-9082-a9f4cfb09917)|
+|![image](https://github.com/user-attachments/assets/06abeebe-b161-44a2-b7cf-51187e36bc4a)|
+|![image](https://github.com/user-attachments/assets/6f79acf2-277b-4e1f-b3cf-394e5f0fa989)|
+|![image](https://github.com/user-attachments/assets/3937d956-503b-48a3-9d6f-96f250f6f1d0)|
+|*[`BACK TO TOP ⏫`](#HSO-TECH)*| 
 
 ###### KB000061548
 | $\color{Apricot}\Huge{\textbf{How To Set Up Time Blocks (Perfect Day Scheduling)}}$|
