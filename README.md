@@ -59,8 +59,9 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 ###### KB#000006486
 | $\color{Apricot}\Huge{\textbf{KB000006486 How To Change the Head of Household Guarantor}}$|
 |-------------------------------------------|
-|
-
+|![image](https://github.com/user-attachments/assets/f72cf112-c257-4328-8fb9-be7d084642e1)|
+|![image](https://github.com/user-attachments/assets/bae9d652-9278-424c-89ee-6afd25d18487)|
+|*[`BACK TO TOP ⏫`](#HSO-TECH)*| 
 
 ###### KB#000062845
 | $\color{Apricot}\Huge{\textbf{KB000062845 Viewing or Editing a Fee Schedule}}$|
