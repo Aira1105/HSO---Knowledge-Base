@@ -47,7 +47,7 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000002360`| *Changing Passwords In DENTRIX* | **Dentrix Passwords** | [`🔗`](KB000002360)
 |`000022917`| *Clearing Or Resetting Passwords In Dentrix* | **Dentrix Passwords** | [`🔗`](#KB000022917)
 |`000016463`| *Administration Password Rights* | **Dentrix Passwords** | [`🔗`](#KB000016463)
-|`000021555`| *How To Set Up Passwords In Dentrix v G7.3 Update 1+* | **Dentrix Passwords** [`🔗`](KB000021555)
+|`000021555`| *How To Set Up Passwords In Dentrix v G7.3 Update 1+* | **Dentrix Passwords** | [`🔗`](KB000021555)
 |`000010959`| *Creating A Shortcut For The Time Clock* | **Dentrix Passwords** |  [`🔗`](#KB000010959)
 |`000054347`| *How To Add a Billing Type* | **Dentrix Billing** | [`🔗`](#KB000054347)
 |`000061548`| *How To Set Up Time Blocks (Perfect Day Scheduling)* | **Pending** | [`🔗`](#KB000061548)
