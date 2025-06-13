@@ -41,7 +41,81 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000013882`| *Selecting Patient Error : Unhandled Exception...Object Reference Not Set To An Instance Of An Object* | **Treatment Plan** | [`🔗`](#KB000013882)
 |`000005723`| *Adding A Default Note to a Treatment Plan in Dentrix* | **Treatment Plan** | [`🔗`](#KB000005723)
 |`000012801`| *Plus Sign Missing From Treatment Plan Case* | **Treatment Plan** | [`🔗`](#KB000012801)
+|`000017586`| *The Selected Patient's Name Is Different In Chart Or Treatment Planner* | **Treatment Plan** | [`🔗`](#KB000017586)
+|`000010914`| *How To Attach a Consent Form* | **Treatment Plan** | [`🔗`](KB000010914)
+|`000020597`| *List Of Passwords Rights* | **Dentrix Passwords** | [`🔗:](KB000020597)
 
+
+
+
+
+
+###### KB000020597
+| $\color{Apricot}\Huge{\textbf{KB:000010914 How To Attach a Consent Form}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/b7b4424d-099a-40b9-af8d-f09c6a850bc2)|
+|![image](https://github.com/user-attachments/assets/674e9e57-2f00-41ed-aae2-1b591888c7a8)|
+|![image](https://github.com/user-attachments/assets/27b24661-cd88-4dee-8d92-2e8821dcffb6)|
+|![image](https://github.com/user-attachments/assets/33c1fa08-7ff4-44a9-aecb-e50bcc069572)|
+|![image](https://github.com/user-attachments/assets/b8c7c022-99ff-40d5-b147-01367272ccba)|
+|![image](https://github.com/user-attachments/assets/1b856feb-44d4-4940-83f3-5307e11f22ca)|
+|![image](https://github.com/user-attachments/assets/afc2d792-48b2-4316-80da-3858927ba059)|
+|![image](https://github.com/user-attachments/assets/3ec9c510-e9e7-4218-a34b-0240a1e56f74)|
+|![image](https://github.com/user-attachments/assets/fe62d5ba-bc9f-4c64-826c-c23f72584cef)|
+|![image](https://github.com/user-attachments/assets/af5993eb-22ef-4e1c-98e2-6023cc27b230)|
+|![image](https://github.com/user-attachments/assets/eab13357-d015-4ddc-8c3e-aaf9b0c38e08)|
+|![image](https://github.com/user-attachments/assets/1946b0b1-3229-4df0-b7a9-0d43657df90c)|
+|![image](https://github.com/user-attachments/assets/7e463d34-e29b-4809-95bd-3c901d2e756b)|
+|![image](https://github.com/user-attachments/assets/3c329667-d55d-44e0-999e-8745b0caf68c)|
+|![image](https://github.com/user-attachments/assets/5063164d-bb36-447c-9a0a-a543207b90f3)|
+|![image](https://github.com/user-attachments/assets/8d343cb6-692b-4c65-aa15-2582a81cfdb4)|
+|![image](https://github.com/user-attachments/assets/ea14fce5-75f6-481f-8b3b-ecbab5907121)|
+|![image](https://github.com/user-attachments/assets/dfd93417-7a73-45fa-bada-d2ed56dd01db)|
+|![image](https://github.com/user-attachments/assets/995033f5-ef07-4771-8c40-7bfd042fccf4)|
+|![image](https://github.com/user-attachments/assets/fe68e687-ab1b-4430-b341-4966e9be1fbe)|
+|![image](https://github.com/user-attachments/assets/108cba58-978e-4769-aac1-66b040ad7882)|
+|![image](https://github.com/user-attachments/assets/4587a8b6-be79-40cf-9589-020d9019a78c)|
+|![image](https://github.com/user-attachments/assets/baadfa93-0f5f-4a38-bcab-ec7f9cf252e6)|
+|![image](https://github.com/user-attachments/assets/670e63a2-8470-4881-8cea-d3bf363af610)|
+|![image](https://github.com/user-attachments/assets/ff58e141-8ed7-4ce0-82e4-daf8db7c37d9)|
+|![image](https://github.com/user-attachments/assets/e2bcd1ec-d94e-4ed7-b039-fc643638c360)|
+|![image](https://github.com/user-attachments/assets/28f5c01d-1529-4ab6-9297-e033aa28ce7c)|
+|![image](https://github.com/user-attachments/assets/fbd3ae6e-297e-46e1-bad7-ff5fef51d6e2)|
+|![image](https://github.com/user-attachments/assets/9411ea43-14b8-41da-b5b5-514c6781a949)|
+|![image](https://github.com/user-attachments/assets/f89febe5-b168-4ca2-bc49-6411fd5a352e)|
+|![image](https://github.com/user-attachments/assets/d8841eea-cc0a-4696-a237-7d78e113bcd6)|
+|![image](https://github.com/user-attachments/assets/a58c7d62-c81f-4a15-98e3-8a6e9420cd06)|
+|![image](https://github.com/user-attachments/assets/e83cf46d-4c53-47f2-adb8-183e1ce44693)|
+|![image](https://github.com/user-attachments/assets/a491b235-4ff0-43b5-b186-3c735bf7a62a)|
+|![image](https://github.com/user-attachments/assets/8d7ee904-198a-4ba3-bcf1-b8a6f4fb2d86)|
+|![image](https://github.com/user-attachments/assets/31d35132-9366-4ec9-8fc1-ceda77d7d186)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
+
+
+
+
+
+
+
+
+
+
+
+###### KB000010914
+| $\color{Apricot}\Huge{\textbf{KB:000010914 How To Attach a Consent Form}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/e7d54f71-4b2f-44b1-a9dc-f2760e3bab0d)|
+|![image](https://github.com/user-attachments/assets/275f42bc-0263-47d8-95a0-f2c0060f670a)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
+
+
+###### KB000017586
+| $\color{Apricot}\Huge{\textbf{KB:000012801 Plus Sign Missing From Treatment Plan Case}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/f08cb715-dfd9-4194-90d4-1a67195f4620)|
+|![image](https://github.com/user-attachments/assets/213db3a7-c176-4bd7-90c2-d3bb71e75abc)|
+|![image](https://github.com/user-attachments/assets/fb017bbf-41ce-476e-afec-b34904cc0dce)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
 
 
 ###### KB000012801
