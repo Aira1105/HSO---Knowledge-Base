@@ -59,9 +59,18 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000019209`| *Document Center: Auto File Acquisition And Unfiled Documents* | **Document Center** | [`🔗`](#KB000019209)
 |`000011673`| *Print Appointment Book View - Feature Information* | **Document Center** | [`🔗`](#KB000011673)
 |`000023858`| *Changing Appointment Book View Defaults* | **Appointment Book** | [`🔗`](#KB000023858)
+|`000052881`| *How to Add/Edit a Procedure Code in Dentrix*| **Patient Chart** | [`🔗`](#KB000052881)
 
-
-
+###### KB#000052881
+| $\color{Apricot}\Huge{\textbf{KB000023858 How to Add/Edit a Procedure Code in Dentrix}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/5d5ef039-8b82-470f-b7cd-9cc694ff2494)|
+|![image](https://github.com/user-attachments/assets/b96f552e-3397-4bd6-8142-2ce265e988cf)|
+|![image](https://github.com/user-attachments/assets/ec119aea-ef6e-46ee-bca8-0ac0fed4ca19)|
+|![image](https://github.com/user-attachments/assets/cec02d7a-a020-444c-8550-9fa286a0abf7)|
+|![image](https://github.com/user-attachments/assets/3f8509ce-5a5d-43c3-adf6-410b14eecc08)|
+|![image](https://github.com/user-attachments/assets/3c86195f-4024-4b29-85ab-0a804a6a20a4)|
+|*[`BACK TO TOP ⏫`](#HSO-TECH)*|
 
 
 
@@ -74,7 +83,7 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |*[`BACK TO TOP ⏫`](#HSO-TECH)*|
 
 ###### KB#0000011673
-| $\color{Apricot}\Huge{\textbf{KB000011673Print Appointment Book View - Feature Information}}$|
+| $\color{Apricot}\Huge{\textbf{KB000011673 Print Appointment Book View - Feature Information}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/03fdef97-00b5-4962-a425-32c1956c0353)|
 |![image](https://github.com/user-attachments/assets/45c03bb7-383f-4b32-a1f5-bd933653d99a)|
