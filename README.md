@@ -43,15 +43,68 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000012801`| *Plus Sign Missing From Treatment Plan Case* | **Treatment Plan** | [`🔗`](#KB000012801)
 |`000017586`| *The Selected Patient's Name Is Different In Chart Or Treatment Planner* | **Treatment Plan** | [`🔗`](#KB000017586)
 |`000010914`| *How To Attach a Consent Form* | **Treatment Plan** | [`🔗`](KB000010914)
-|`000020597`| *List Of Passwords Rights* | **Dentrix Passwords** | [`🔗:](KB000020597)
+|`000020597`| *List Of Passwords Rights* | **Dentrix Passwords** | [`🔗`](KB000020597)
+|`000002360`| *Changing Passwords In DENTRIX* | **Dentrix Passwords** | [`🔗`](KB000002360)
+|`000022917`| *Clearing Or Resetting Passwords In Dentrix* | **Dentrix Passwords** | [`🔗`](#KB000022917)
+|`000016463`| *Administration Password Rights* | **Dentrix Passwords** | [`🔗`](#KB000016463)
+|`000021555`| *How To Set Up Passwords In Dentrix (v G7.3 Update 1+)* | [`🔗`](KB000021555)
 
 
 
 
+
+
+###### KB000021555
+| $\color{Apricot}\Huge{\textbf{How To Set Up Passwords In Dentrix (v G7.3 Update 1+)}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/915e1d1e-2918-46f0-a4d7-98367803f89e)|
+|![image](https://github.com/user-attachments/assets/e7c1318a-84b6-4f02-a67f-5e1487506f66)|
+|![image](https://github.com/user-attachments/assets/0df89d7e-b589-4a3d-9e62-4d9e09fe3686)|
+|![image](https://github.com/user-attachments/assets/8367d6f4-5b4f-4d52-8792-4ece5edf7191)|
+|![image](https://github.com/user-attachments/assets/18f3feeb-869b-4067-8602-fcc5577568ee)|
+
+
+
+
+
+
+
+
+
+
+###### KB000016463
+| $\color{Apricot}\Huge{\textbf{KB:00016463 Administration Password Rights}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/ec52bea4-757d-40e0-88c0-7c75ff1b7170)|
+|![image](https://github.com/user-attachments/assets/3ba2fd76-dd0b-4732-be94-473de1857ff2)|
+|![image](https://github.com/user-attachments/assets/eb00b719-3710-4304-a2f5-2e7a439fbceb)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
+
+
+
+
+
+###### KB000022917
+| $\color{Apricot}\Huge{\textbf{KB:000002360 Clearing Or Resetting Passwords In Dentrix}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/e3c5cd10-31ff-40f9-b81c-c5d7d675a668)|
+|![image](https://github.com/user-attachments/assets/53c59134-a2d9-430f-a374-94d364855840)|
+|![image](https://github.com/user-attachments/assets/2e9e7ffa-a323-4766-ba0d-064078325b9e)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
+
+
+
+
+###### KB000002360
+| $\color{Apricot}\Huge{\textbf{KB:000002360 Changing Passwords In DENTRIX}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/5b86e6d2-3588-429f-999a-8a433fb2c41c)|
+|![image](https://github.com/user-attachments/assets/988b1bb8-2d72-4695-a179-a5066013d3aa)|
+|*[`BACK TO TOP`](#HSO-TECH)*|
 
 
 ###### KB000020597
-| $\color{Apricot}\Huge{\textbf{KB:000010914 How To Attach a Consent Form}}$|
+| $\color{Apricot}\Huge{\textbf{KB:000020597 List Of Passwords Rights}}$|
 |-------------------------------------------|
 |![image](https://github.com/user-attachments/assets/b7b4424d-099a-40b9-af8d-f09c6a850bc2)|
 |![image](https://github.com/user-attachments/assets/674e9e57-2f00-41ed-aae2-1b591888c7a8)|
