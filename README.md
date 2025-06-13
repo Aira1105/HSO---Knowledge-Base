@@ -51,7 +51,7 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000010959`| *Creating A Shortcut For The Time Clock* | **Dentrix Passwords** |  [`🔗`](#KB000010959)
 |`000054347`| *How To Add a Billing Type* | **Dentrix Billing** | [`🔗`](#KB000054347)
 |`000061548`| *How To Set Up Time Blocks (Perfect Day Scheduling)* | **Pending** | [`🔗`](#KB000061548)
-|`000007189`| *inding All Overdue Patients For Recall \ Continuing Care In Dentrix* | [🔗](#KB000007189)
+|`000007189`| *Finding All Overdue Patients For Recall Continuing Care In Dentrix* | **Continuing Care** | [🔗](#KB000007189)
 
 
 
