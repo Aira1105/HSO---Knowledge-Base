@@ -54,7 +54,53 @@ $\color{Cyan}\Huge{\textbf{Contents}}$
 |`000007189`| *Finding All Overdue Patients For Recall Continuing Care In Dentrix* | **Continuing Care** | [🔗](#KB000007189)
 |`000062845`| *Viewing or Editing a Fee Schedule* | **Pending** | [`🔗`](#KB000062845)
 |`000006486`| *How To Change the Head of Household Guarantor* | **Pending** | [`🔗`](#KB000006486)
+|`000022816`| *Creating Patient Alerts* | **Patient Chart** | [`🔗`](#KB000022816)
+|`000014928`| *General Guide for Troubleshooting Scanner Compatibility Issues In the Dentrix Document Center Acquire From Device* | **Tech Support** | [`🔗:`](#KB000014928)
+|`000019209`| *Document Center: Auto File Acquisition And Unfiled Documents* | **Document Center** | [`🔗`](#KB000019209)
+|`000011673`| *Print Appointment Book View - Feature Information* | **Document Center** | [`🔗`](#KB000011673)
 
+
+
+
+
+###### KB#0000011673
+| $\color{Apricot}\Huge{\textbf{KB000011673Print Appointment Book View - Feature Information}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/03fdef97-00b5-4962-a425-32c1956c0353)|
+|![image](https://github.com/user-attachments/assets/45c03bb7-383f-4b32-a1f5-bd933653d99a)|
+|![image](https://github.com/user-attachments/assets/2efb9824-3b62-45c4-a06b-e76f3585ab2f)|
+|![image](https://github.com/user-attachments/assets/984a47a9-7b39-4521-8eda-3f05103dd8cd)|
+|*[`BACK TO TOP ⏫`](#HSO-TECH)*|
+
+###### KB#000019209
+| $\color{Apricot}\Huge{\textbf{KB000019209 Document Center: Auto File Acquisition And Unfiled Documents}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/4895c46a-b36d-4bb0-a50e-0bd45b497b6b)|
+|![image](https://github.com/user-attachments/assets/e4dc4448-e25b-4e70-bb5c-47a29d584e02)|
+|![image](https://github.com/user-attachments/assets/f1626b10-22b2-4bfb-a7a4-b3dbb71d6499)|
+|![image](https://github.com/user-attachments/assets/1964e4c6-3889-4739-8570-ef8901b7afed)|
+|![image](https://github.com/user-attachments/assets/95e17ed2-82b6-44cc-8731-9440191b4e87)|
+|![image](https://github.com/user-attachments/assets/6a8a8d36-c0a7-4d41-acd4-f30bf64e1217)|
+|![image](https://github.com/user-attachments/assets/086cc551-fa74-46a0-a119-690e841d4003)|
+|*[`BACK TO TOP ⏫`](#HSO-TECH)*|
+
+###### KB#000014928
+| $\color{Apricot}\Huge{\textbf{KB000014928 General Guide for Troubleshooting Scanner Compatibility Issues In the Dentrix Document Center Acquire From Device}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/cfe61fac-a435-40c7-9398-4dda5ecd9436)|
+|![image](https://github.com/user-attachments/assets/15ef5fb8-2b07-4e1c-b36e-467da592e96d)|
+|![image](https://github.com/user-attachments/assets/539dcc2a-e8fe-41ab-8821-fd4e1701f357)|
+|*[`BACK TO TOP ⏫`](#HSO-TECH)*|
+
+
+
+###### KB#000006486
+| $\color{Apricot}\Huge{\textbf{KB000006486 How To Change the Head of Household Guarantor}}$|
+|-------------------------------------------|
+|![image](https://github.com/user-attachments/assets/ed10cb0c-de91-41dd-b3e5-089c2afdd26f)|
+|![image](https://github.com/user-attachments/assets/ab26afe6-1fcb-490b-8c4e-95c4b498506a)|
+|![image](https://github.com/user-attachments/assets/5d7329a7-0b1d-4dad-85fa-abf874e75ced)|
+|*[`BACK TO TOP ⏫`](#HSO-TECH)*|
 
 ###### KB#000006486
 | $\color{Apricot}\Huge{\textbf{KB000006486 How To Change the Head of Household Guarantor}}$|
